@@ -11,7 +11,7 @@ Email: ncampigotto *chiocciola* luiss *punto* it
 Ricevimento: su appuntamento
 
 
-## 📌 *Teaching assistant*
+## 📌 Assistenti alla didattica
 
 Maria Paola Pagliarulo (Canale A)   
 Email:     
