@@ -2,12 +2,12 @@
 
 ### 📌 Docenti
 
-[Matilde Giaccherini](https://sites.google.com/view/matildegiaccherini) (Module 1)    
-Email: mgiaccherini *at* luiss *dot* it    
+[Matilde Giaccherini](https://sites.google.com/view/matildegiaccherini) (Modulo 1)    
+Email: mgiaccherini *chiocciola* luiss *punto* it    
 Ricevimento: su appuntamento
 
-[Nicola Campigotto](https://ncampigotto.github.io) (Module 2)    
-Email: ncampigotto *at* luiss *dot* it    
+[Nicola Campigotto](https://ncampigotto.github.io) (Modulo 2)    
+Email: ncampigotto *chiocciola* luiss *punto* it    
 Ricevimento: su appuntamento
 
 
