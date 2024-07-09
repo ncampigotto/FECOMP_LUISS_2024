@@ -4,7 +4,7 @@
 
 Questa repository contiene *syllabus*, materiale e dati per il corso di "Fondamenti di Economia Comportamentale" (LUISS Guido Carli, Corso di Laurea Magistrale in Marketing, canali A e B).
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Leggi con attenzione il [**SYLLABUS**](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Syllabus/Syllabus.md) e assicurati di averne compreso il contenuto!
 
 
