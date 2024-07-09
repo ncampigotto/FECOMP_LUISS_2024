@@ -2,7 +2,7 @@
 
 ### Anno accademico 2024-25
 
-Questa repository contiene syllabus, materiale e dati per il corso di "Fondamenti di Economia Comportamentale" (LUISS Guido Carli, Corso di Laurea Magistrale in Marketing).
+Questa repository contiene *syllabus*, materiale e dati per il corso di "Fondamenti di Economia Comportamentale" (LUISS Guido Carli, Corso di Laurea Magistrale in Marketing).
 
 > [!IMPORTANT]
 > Leggi con attenzione il [**SYLLABUS**](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Syllabus/Syllabus.md) e assicurati di averne compreso il contenuto!
