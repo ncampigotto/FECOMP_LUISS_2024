@@ -30,6 +30,6 @@ Questa *repository* contiene *syllabus*, materiale e dati per il corso di "Fonda
 
 |              | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
-| Assignment 1 | TBD | |
-| Assignment 2 | TBD | |
-| Assignment 3 | TBD | |
+| Elaborato 1 | TBD | |
+| Elaborato 2 | TBD | |
+| Elaborato 3 | TBD | |
