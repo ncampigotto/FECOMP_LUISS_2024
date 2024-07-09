@@ -10,7 +10,7 @@ Questa *repository* contiene *syllabus*, materiale e dati per il corso di "Fonda
 
 ## 📌 Materiali
 
-| **Settimana**     | **Tema**                                   | **Docente**    | **Slide / Materiale**    |
+| **Settimana**     | **Tema**                                   | **Docente**    | **Materiale**    |
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
 | 1            | TBD        | Giaccherini       | |
 | 2            | TBD                       | Giaccherini       |  |
