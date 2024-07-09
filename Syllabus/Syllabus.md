@@ -10,7 +10,6 @@ Ricevimento: su appuntamento
 Email: ncampigotto *at* luiss *dot* it    
 Ricevimento: su appuntamento
 
-<br>
 
 ### 📌 *Teaching assistant*
 
