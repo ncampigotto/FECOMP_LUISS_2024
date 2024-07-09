@@ -1,33 +1,33 @@
-# Behavioural Economics and Consumer Decision Making - Syllabus
+# Fondamenti di Economia Comportamentale - *Syllabus*
 
-## 📌 Instructors
+## 📌 Docenti
 
 [Matilde Giaccherini](https://sites.google.com/view/matildegiaccherini) (Module 1)    
 Email: mgiaccherini *at* luiss *dot* it    
-Office hours: by appointment
+Ricevimento: su appuntamento
 
 [Nicola Campigotto](https://ncampigotto.github.io) (Module 2)    
 Email: ncampigotto *at* luiss *dot* it    
-Office hours: by appointment
+Ricevimento: su appuntamento
 
 
-## 📌 Teaching assistants
+## 📌 *Teaching assistant*
 
-Luisa Lorè    
-Email: llore *at* luiss *dot* it     
-Office hours: by appointment
+Emma Manneschi (Canale B)   
+Email:      
+Ricevimento: su appuntamento
 
-Veronica Pizziol    
-Email: vpizziol *at* luiss *dot* it     
-No office hours
+Maria Paola Pagliarulo (Canale A)   
+Email:     
+Ricevimento: su appuntamento
 
 
-## 📌 Course webpage (Luiss account required)
+## 📌 Pagina del corso (credenziali LUISS necessarie per l'accesso)
 
 <https://learn.luiss.it/course/view.php?id=20421>
 
 
-## 📌 Classes
+## 📌 Orario delle lezioni
 
 Tuesday, 10.00-12.00 (Room A209, viale Romania)     
 Friday, 16.15-17.15 (Webex)
