@@ -1,6 +1,6 @@
 # Fondamenti di Economia Comportamentale - *Syllabus*
 
-## 📌 Docenti
+### 📌 Docenti
 
 [Matilde Giaccherini](https://sites.google.com/view/matildegiaccherini) (Module 1)    
 Email: mgiaccherini *at* luiss *dot* it    
