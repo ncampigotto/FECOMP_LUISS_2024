@@ -13,12 +13,12 @@ Ricevimento: su appuntamento
 
 ## 📌 *Teaching assistant*
 
-Emma Manneschi (Canale B)   
-Email:      
-Ricevimento: su appuntamento
-
 Maria Paola Pagliarulo (Canale A)   
 Email:     
+Ricevimento: su appuntamento
+
+Emma Manneschi (Canale B)   
+Email:      
 Ricevimento: su appuntamento
 
 
