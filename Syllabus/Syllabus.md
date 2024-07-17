@@ -161,12 +161,12 @@ Half of the groups will be randomly selected to present during the sixth week of
 | 17     | Hausman and Welch (2010), "[Debate: To nudge or not to nudge](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9760.2009.00351.x)", *Journal of Political Philosophy*, vol. 18, no. 1, pp. 123-136
 
 
-## 📌 Course outline
+## 📌 Programma
 
-Any changes to this outline will be announced in class, as will the exact date and time of the experiments and in-class quizzes.
+Eventuali modifiche a questo programma saranno annunciate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
 
 > [!IMPORTANT]
-> Readings marked with a circle (°) will be assessed through in-class quizzes. All the readings below are required for non-attending students.
+> Le letture contrassegnate da un cerchio (°) saranno valutate durante i quiz in classe. Tutte le riportate qui sotto sono obbligatorie per gli studenti non frequentanti.
 
 ### Modulo 1 (Giaccherini)
 
@@ -175,14 +175,16 @@ Any changes to this outline will be announced in class, as will the exact date a
         + Cartwright, Capitolo 1       
 * `[Settimana 2]` Euristiche semplici per scelte complesse  
     + *Letture:*          
-        - Cartwright, Capitolo 2            
+        - Cartwright, Capitolo 2
+        - Thaler e Sunstein (2008), *Nudge: Improving Decisions About Health, Wealth, and Happiness*, Yale University Press, Capitolo 1
         - °Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206
     + *Attività:*
         - ❓ Primo quiz in classe                 
-* `[Settimana 3]` Introduction to data analysis with Stata (bring your own laptop!)             
+* `[Settimana 3]` Introduzione all'analisi dei dati con Stata (porta il tuo laptop!)             
 * `[Settimane 4 e 5]` Scelte in condizioni di rischio e incertezza  
     + *Letture:*  
         - Cartwright, Capitolo 3
+        - Kirchler, Lindner e Weitzel (2018), "[Rankings and risk-taking in the finance industry](https://doi.org/10.1111/jofi.12701)", *Journal of Finance*, vol. 73, n. 5, pp. 2271-2302
     + *Attività:*
         - 🔬 Primo esperimento     
 * `[Settimana 6]` Scelte intertemporali  
@@ -195,37 +197,44 @@ Any changes to this outline will be announced in class, as will the exact date a
 
 ### Modulo 2 (Campigotto)
 
-*  `[Week 7]` Learning from new information  
-    + *Readings:*  
-        - Cartwright, Chapter 5 (Sections 5.1.0, 5.2.0, 5.2.1 and 5.2.3)
-* `[Week 8]` Social interactions  
-    + *Readings:*  
-        - Cartwright, Chapters 7 (Sections 7.1.0 to 7.1.5) and 11 (Section 11.1.1)  
-    + *Activities:*  
-        - 🔬 Second experiment
-* `[Week 9]` Social preferences  
-    + *Readings:*   
-        - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
-* `[Week 10]` Social comparisons  
-    + *Readings:*   
-        - Cartwright, Chapter 7 (Sections 7.2.0 to 7.5.3)
+*  `[Settimane 7 e 8]` Apprendimento, narrazioni, pregiudizi e persuasione   
+    + *Letture:*  
+        - Cartwright, Capitolo 5 (Sezioni 5.1.0, 5.2.0, 5.2.1 e 5.2.3)
+        - Bursztyn, Rao, Roth e Yanagizawa-Drott (2023) "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, n. 4, pp. 1832-1864
+        - Graeber, Roth e Zimmermann (2024), "[Stories, statistics, and memory](https://raw.githubusercontent.com/cproth/papers/master/SSM_May2024.pdf)", *Quarterly Journal of Economics*, di prossima pubblicazione
+        - Leib, Köbis, Rilke, Hagens e Irlenbusch (2024), "[Corrupted by Algorithms? How AI-generated and Human-written Advice Shape (Dis)honesty](https://doi.org/10.1093/ej/uead056)", *Economic Journal*, vol. 134, n. 658, pp. 766-784
+        - Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](https://doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, n. 3, pp. 831–870
+        - Schwardmann, Tripodi e van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372)",  *American Economic Review*, vol. 112, n. 4, pp. 1118-1146
+    + *Attività:*  
+        - 🔬 Secondo esperimento
+
+* `[Settimana 9]` Interazioni sociali  
+    + *Letture:*  
+        - Cartwright, Capitolo 7 (Sezioni da 7.1.0 a 7.1.5) e 11 (Sezione 11.1.1)
         - °Balafoutas, Nikiforakis and Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
-    + *Activities:*  
-        - 🔬 Third experiment
-        - ❓ Third in-class quiz
-* `[Week 11]` Salience and nudges  
-    + *Readings:*  
-        - Cartwright, Chapter 11 (Sections 11.2.0 to 11.2.5)
-        - °Gneezy and Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, no. 3, pp. 791-810  
-        - °Meyer and Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, no. 102434  
-    + *Activities:*  
-        - 📝 Submission of second assignment
-        - ❓ Fourth in-class quiz
-* `[Week 12]` Student presentations
-    + *Readings:*  
+        - Ehret, Constantino, Weber, Efferson e Vogt (2022), "[Group identities can undermine social tipping after intervention](https://doi.org/10.1038/s41562-022-01440-5)", *Nature Human Behavior*, vol. 6, pp. 1669-1679
+        - Fehr e Leibbrandt (2011), "[A field study on cooperativeness and impatience in the tragedy of the commons](https://doi.org/10.1016/j.jpubeco.2011.05.013)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1144–1155
+        - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
+        - Levitt e List (2007), "[What do laboratory experiments measuring social preferences reveal about the real world?](https://doi.org/10.1257/jep.21.2.153)", *Journal of Economic Perspectives*, vol. 21, n. 2, pp. 153-174
+        - Ostrom (2010), "[The challenge of common-pool resources](https://doi.org/10.3200/ENVT.50.4.8-21)", *Environment: Science and Policy for Sustainable Development*, vol. 50, n. 4, pp. 8-21
+    + *Attività:*  
+        - ❓ Terzo quiz in classe
+        - 🔬 Terzo esperimento
+        - 📝 Invio del secondo elaborato sperimentale
+* `[Settimane 10 e 11]` Preferenze e confronti sociali  
+    + *Letture:*   
+        - Cartwright, Capitolo 7 (Sezioni da 7.2.0 a 7.5.3)
+        - °Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810  
+        - °Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434  
+    + *Attività:*
+        - ❓ Quarto quiz in classe
+        - 🔬 Quarto esperimento
+
+* `[Settimana 12]` Salienza e *nudge*  
+    + *Letture:*  
+        - Cartwright, Capitolo 11 (Sezioni da 11.2.0 a 11.2.5)
         - °Biswas, Szocs, Chacko and Wansink (2017), "[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)", *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
-        - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489  
-    + *Activities:*
-        - 📢 Student presentations
-        - ❓ Fifth in-class quiz           
-        - 📝 Submission of third assignment
+        - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489   
+    + *Attività:*  
+        - ❓ Quinto quiz in classe
+        - 📝 Invio del terzo elaborato sperimentale e del *policy brief*
