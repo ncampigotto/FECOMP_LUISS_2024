@@ -184,6 +184,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 * `[Settimane 4 e 5]` Scelte in condizioni di rischio e incertezza  
     + *Letture:*  
         - Cartwright, Capitolo 3
+        - Cordes, Dertwinkel-Kalt e Werner (2023), "[What drives demand for loot boxes? An experimental study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349674)", working paper
         - Kirchler, Lindner e Weitzel (2018), "[Rankings and risk-taking in the finance industry](https://doi.org/10.1111/jofi.12701)", *Journal of Finance*, vol. 73, n. 5, pp. 2271-2302
     + *Attività:*
         - 🔬 Primo esperimento     
