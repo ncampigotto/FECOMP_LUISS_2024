@@ -22,26 +22,37 @@ Email:
 Ricevimento: su appuntamento
 
 
-## 📌 Pagina del corso (credenziali LUISS necessarie per l'accesso)
+## 📌 Pagine del corso 
 
-<https://learn.luiss.it/course/view.php?id=20421>
+Credenziali LUISS necessarie per l'accesso.
+
+- Canale A: <https://learn.luiss.it/course/view.php?id=23313>
+- Canale B: <https://learn.luiss.it/course/view.php?id=23314>
 
 
 ## 📌 Orario delle lezioni
 
-Tuesday, 10.00-12.00 (Room A209, viale Romania)     
-Friday, 16.15-17.15 (Webex)
+Tutte le lezioni si terranno nella sede di Viale Romania.
+
+- Canale A
+    + Tuesday, 10.00-12.00 (Room A209, viale Romania)   
+    + Tuesday, 10.00-12.00 (Room A209, viale Romania)    
+      oppure blabla  
+- Canale B
+    + Tuesday, 10.00-12.00 (Room A209, viale Romania)   
+    + Tuesday, 10.00-12.00 (Room A209, viale Romania)    
+      oppure blabla    
 
 > [!IMPORTANT]
-> Classes will **not** be recorded. Class attendance is mandatory. Please be punctual!
+> La frequenza è obbligatoria e sarà oggetto di valutazione. Le lezioni non saranno registrate.
 
 
-## 📌 Prerequisites
+## 📌 Prerequisiti
 
-Basic microeconomics and statistics.
+Elementi di microeconomia e statistica.
 
 
-## 📌 Course overview
+## 📌 Panoramica del corso
 
 This course explores topics in [behavioural economics](https://news.uchicago.edu/explainer/what-is-behavioral-economics), which seeks to explain how psychological factors influence human decision-making. The aim of the course is to provide you with a solid understanding of (i) why people make the choices they do and (ii) how behavioural insights can be used to inform business strategies and advance policies on health, energy, taxation, and more.    
 
@@ -50,16 +61,15 @@ The course consists of two modules. Module 1 introduces the conceptual foundatio
 A detailed outline of the course is given below. Lectures will combine theory and experimental evidence.
 
 
-## 📌 Textbook
+## 📌 Letture
 
-+  Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), 3rd edition, Routledge
-+  Additional required readings are listed in the course outline
++  Materiali forniti a lezione
++  Manuale di approfondimento: Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), terza edizione, Routledge
 
 
-## 📌 Learning assessment and grading
+## 📌 Modalità di valutazione
 
 Detailed information about the examination rules and regulations can be found [HERE](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Other/FEB_Handbook_2023-24_ENG.pdf).
-
 
 ### Attending students
 
@@ -158,34 +168,32 @@ Any changes to this outline will be announced in class, as will the exact date a
 > [!IMPORTANT]
 > Readings marked with a circle (°) will be assessed through in-class quizzes. All the readings below are required for non-attending students.
 
-### Module 1 (Giaccherini)
+### Modulo 1 (Giaccherini)
 
-* `[Week 1]` Introduction to behavioral economics  
-    - *Readings:*  
-        + Cartwright, Chapter 1       
-* `[Week 2]` Simple heuristics for complex choices  
-    + *Readings:*          
-        - Cartwright, Chapter 2            
-        - °Kahneman, Knetsch and Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, no. 1, pp. 193-206
-    + *Activities:*
-        - ❓ First in-class quiz                 
-* `[Week 3]` Introduction to data analysis with Stata (bring your own laptop!)             
-* `[Week 4]` Choices with risk  
-    + *Readings:*  
-        - Cartwright, Chapter 3        
-* `[Week 5]` Intertemporal Choices  
-    + *Readings:*
-        - Cartwright, Chapter 4
-        - °Andreoni, Kuhn, List, Samek, Sokal and Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, no. 104039
-    + *Activities:*
-        - 🔬 First experiment
-        - ❓ Second in-class quiz    
-* `[Week 6]` Student presentations
-    + *Activities:*    
-        - 📢 Student presentations
-        - 📝 Submission of first assignment
+* `[Settimana 1]` Introduzione all'economia comportamentale  
+    - *Letture:*  
+        + Cartwright, Capitolo 1       
+* `[Settimana 2]` Euristiche semplici per scelte complesse  
+    + *Letture:*          
+        - Cartwright, Capitolo 2            
+        - °Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206
+    + *Attività:*
+        - ❓ Primo quiz in classe                 
+* `[Settimana 3]` Introduction to data analysis with Stata (bring your own laptop!)             
+* `[Settimane 4 e 5]` Scelte in condizioni di rischio e incertezza  
+    + *Letture:*  
+        - Cartwright, Capitolo 3
+    + *Attività:*
+        - 🔬 Primo esperimento     
+* `[Settimana 6]` Scelte intertemporali  
+    + *Letture:*
+        - Cartwright, Capitolo 4
+        - °Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039
+    + *Attività:*
+        - ❓ Secondo quiz in classe    
+        - 📝 Invio del primo elaborato sperimentale
 
-### Module 2 (Campigotto)
+### Modulo 2 (Campigotto)
 
 *  `[Week 7]` Learning from new information  
     + *Readings:*  
