@@ -2,34 +2,32 @@
 
 ### Anno accademico 2024-25
 
-Questa *repository* contiene *syllabus*, materiale e dati per il corso di "Fondamenti di Economia Comportamentale" (LUISS Guido Carli, Corso di Laurea Magistrale in Marketing, canali A e B).
+Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti di Economia Comportamentale" (LUISS Guido Carli, Corso di Laurea Magistrale in Marketing, canali A e B).
 
 > [!IMPORTANT]
 > Leggi con attenzione il [**SYLLABUS**](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Syllabus/Syllabus.md) del corso e assicurati di averne compreso il contenuto!
 
 
-## 📌 Materiali
+## 📌 Programma preliminare
 
-| **Settimana**     | **Tema**                                   | **Docente**    | **Materiale**    |
+| **Settimana/e**     | **Tema**                                   | **Docente**    | **Materiale**    |
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
-| 1            | TBD        | Giaccherini       | |
-| 2            | TBD                       | Giaccherini       |  |
-| 3            | Introduzione all'analisi dei dati con Stata    | Manneschi, Pagliarulo     | |
-| 4            | TBD                           | Giaccherini       | |
-| 5            | TBD                       | Giaccherini       | |
-| 6            | TBD                       | Giaccherini       | |
-| 7            | TBD                                    | Campigotto        | |
-| 8            | TBD                         | Campigotto        | |
-| 9            | TBD                          | Campigotto        | |
-| 10           | TBD                           | Campigotto        | |
-| 11           | TBD                                      | Campigotto        | |
-| 12           | TBD                       | Campigotto        | |
+| 1            | Introduzione all'economia comportamentale   | Giaccherini       |                          |
+| 2            | Euristiche e *bias*                         | Giaccherini       |                          |
+| 3            | Introduzione all'analisi dei dati con Stata    | Manneschi, Pagliarulo |                   |
+| 4 e 5        | Scelte in condizioni di rischio e incertezza   | Giaccherini, Campigotto |                 |
+| 6            | Scelte intertemporali                         | Giaccherini       |                        |
+| 7 e 8        | Apprendimento, pregiudizi e persuasione       | Campigotto        |                        |
+| 9            | Interazioni strategiche                       | Campigotto        |                        |
+| 10 e 11      | Preferenze sociali                            | Campigotto        |                        |
+| 12           | Salienza e *nudge*                            | Campigotto        |                        |
 
 
-## 📌 Elaborati
+## 📌 Elaborati sperimentali
 
 |              | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
 | Elaborato 1 | TBD | |
 | Elaborato 2 | TBD | |
 | Elaborato 3 | TBD | |
+
