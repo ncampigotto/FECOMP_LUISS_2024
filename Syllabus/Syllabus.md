@@ -113,6 +113,15 @@ Durante gli esami non sarà possibile consultare manuale e appunti.
 
 Durante il corso dovrai prendere parte a cinque quiz svolti in classe, ciascuno della durata di circa 20 minuti. I quiz valuteranno la comprensione di uno o due articoli scientifici da leggere prima della lezione. 
 
+| Numero quiz  | **Articolo**        | 
+|:------|:------------------|
+| 1     | Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206 |
+| 2     | Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039 |
+| 3     | Balafoutas, Nikiforakis e Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, n. 45, pp. 15924-15927   |
+| 4     | Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810 |
+| 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
+| 5     | Hagmann, Ho e Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489    |
+
 Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta varrà 0,2 punti (quindi il punteggio massimo possibile è di 1 punto per quiz).
 
 I quiz verranno svolti in autonomia ma saranno valutati a gruppi: il punteggio assegnato a ciascun gruppo per ogni quiz sarà dato dalla media dei punteggi ottenuti dai membri del gruppo in quel quiz. Agli studenti assenti verranno assegnati zero punti.
@@ -175,7 +184,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
     + *Letture:*          
         - Cartwright, Capitolo 2
         - Thaler e Sunstein (2008), *Nudge: Improving Decisions About Health, Wealth, and Happiness*, Yale University Press, Capitolo 1
-        - °Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206
         - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
     + *Attività:*
         - ❓ Primo quiz in classe                 
@@ -190,7 +198,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 * `[Settimana 6]` Scelte intertemporali  
     + *Letture:*
         - Cartwright, Capitolo 4
-        - °Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039
         - Della Vigna e Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, n. 3, pp. 694-719
         - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
     + *Attività:*
@@ -213,7 +220,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 * `[Settimana 9]` Interazioni sociali  
     + *Letture:*  
         - Cartwright, Capitolo 7 (Sezioni da 7.1.0 a 7.1.5) e 11 (Sezione 11.1.1)
-        - °Balafoutas, Nikiforakis and Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-15927  
         - Ehret, Constantino, Weber, Efferson e Vogt (2022), "[Group identities can undermine social tipping after intervention](https://doi.org/10.1038/s41562-022-01440-5)", *Nature Human Behavior*, vol. 6, pp. 1669-1679
         - Fehr e Leibbrandt (2011), "[A field study on cooperativeness and impatience in the tragedy of the commons](https://doi.org/10.1016/j.jpubeco.2011.05.013)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1144–1155
         - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
@@ -226,8 +232,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 * `[Settimane 10 e 11]` Preferenze e confronti sociali  
     + *Letture:*   
         - Cartwright, Capitolo 7 (Sezioni da 7.2.0 a 7.5.3)
-        - °Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810  
-        - °Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434
         - Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482
         - Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper
         - 
@@ -238,8 +242,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
         - Cartwright, Capitolo 11 (Sezioni da 11.2.0 a 11.2.5)
-        - °Biswas, Szocs, Chacko and Wansink (2017), "[Shining light on atmospherics: How ambient light influences food choices](https://doi.org/10.1509/jmr.14.0115)", *Journal of Marketing Research*, vol. 54, no. 1, pp.  111-123
-        - °Hagmann, Ho and Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489   
     + *Attività:*  
         - ❓ Quinto quiz in classe
         - 📝 Invio del terzo elaborato sperimentale e del *policy brief*
