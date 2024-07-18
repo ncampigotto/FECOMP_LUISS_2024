@@ -102,9 +102,9 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 
 ## 📌 Struttura degli esami
 
-- L'esame finale per gli studenti <ins> frequentanti </ins> consiste di una sola domanda a risposta aperta tratta dal programma del Modulo 1 o del Modulo 2. 
+- L'esame finale per gli studenti <ins>frequentanti</ins> consiste di una sola domanda a risposta aperta tratta dal programma del Modulo 1 o del Modulo 2. 
 
-- L'esame finale per gli studenti <ins> non frequentanti </ins> consiste di tre domande a risposta aperta tratte da entrambi i moduli. Due domande sono basate sul manuale, mentre la terza domanda è basata sulle altre letture obbligatorie. 
+- L'esame finale per gli studenti <ins>non frequentanti</ins> consiste di tre domande a risposta aperta tratte da entrambi i moduli. Due domande sono basate sul manuale, mentre la terza domanda è basata sulle altre letture obbligatorie. 
 
 Durante gli esami non è possibile consultare manuale e appunti. 
 
@@ -134,7 +134,7 @@ Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi, a
 
 ## 📌 Elaborati di analisi dei dati
 
-Parte delle lezioni prevede la partecipazione a degli esperimenti svolti in classe. Ciascun gruppo ha poi il compito di analizzare i risultati degli esperimenti e redigere tre brevi elaborati per rispondere a delle domande.
+Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a delle domande.
 
 L'analisi dei dati è effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È tua responsabilità assicurarti che il software sia correttamente installato sul tuo computer. 
 
