@@ -134,9 +134,9 @@ Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi ot
 
 ## 📌 Elaborati di analisi dei dati
 
-Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a una serie di domande.
+Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a una serie di domande. Dati, domande e scadenze saranno comunicati a tempo debito sulla [pagina principale](https://github.com/ncampigotto/FECOMP_LUISS_2024) del corso.
 
-L'analisi dei dati è effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È responsabilità degli studenti assicurarsi che il software sia correttamente installato sul proprio computer. 
+L'analisi dei dati va effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È responsabilità degli studenti assicurarsi che il software sia correttamente installato sul proprio computer. 
 
 
 ## 📌 *Policy brief*
