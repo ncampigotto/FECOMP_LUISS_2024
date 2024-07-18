@@ -120,7 +120,7 @@ Durante il corso dovrai prendere parte a cinque quiz svolti in classe, ciascuno 
 | 3     | Balafoutas, Nikiforakis e Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, n. 45, pp. 15924-15927   |
 | 4     | Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810 |
 | 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
-| 5     | Hagmann, Ho e Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489    |
+| 5     | Blumenstock, Callen e Ghani (2018), "[Why do defaults affect behavior? Experimental evidence from Afghanistan](https://doi.org/10.1257/aer.20171676)", *American Economic Review*, vol. 108, n. 10, pp. 2868-2901 |
 
 Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta varrà 0,2 punti (quindi il punteggio massimo possibile è di 1 punto per quiz).
 
@@ -234,7 +234,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Cartwright, Capitolo 7 (Sezioni da 7.2.0 a 7.5.3)
         - Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482
         - Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper
-        - 
     + *Attività:*
         - ❓ Quarto quiz in classe
         - 🔬 Quarto esperimento in classe    
@@ -242,6 +241,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
         - Cartwright, Capitolo 11 (Sezioni da 11.2.0 a 11.2.5)
+        - Hagmann, Ho e Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489
     + *Attività:*  
         - ❓ Quinto quiz in classe
         - 📝 Invio del terzo elaborato sperimentale e del *policy brief*
