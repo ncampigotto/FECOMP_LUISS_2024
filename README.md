@@ -8,7 +8,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 > Leggi con attenzione il [**SYLLABUS**](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Syllabus/Syllabus.md) del corso e assicurati di averne compreso il contenuto!
 
 
-## 📌 materiali didattici
+## 📌 Materiali didattici
 
 ### 📆 Programma preliminare
 
