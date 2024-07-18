@@ -126,7 +126,7 @@ Ogni quiz consiste di 5 domande a scelta multipla o vero/falso. Non sono previst
 
 I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti vengono assegnati zero punti.
 
-Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi arrotondata al numero intero più vicino.
+Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi, arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
 > Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
