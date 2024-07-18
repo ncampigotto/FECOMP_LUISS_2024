@@ -54,7 +54,7 @@ Elementi di microeconomia e statistica.
 
 ## 📌 Panoramica del corso
 
-Questo corso funge da introduzione all'[economia comportamentale](https://news.uchicago.edu/explainer/what-is-behavioral-economics). L'obiettivo è quello di fornirti una solida comprensione di: 
+Questo corso funge da introduzione all'[economia comportamentale](https://news.uchicago.edu/explainer/what-is-behavioral-economics). L'obiettivo è quello di fornire una solida comprensione di: 
 - quali sono i fattori psicologici che influenzano i processi decisionali;
 - come è possibile far leva su questi fattori per implementare strategie aziendali e politiche pubbliche riguardanti la salute, l'energia, la tassazione e altro ancora.
 
