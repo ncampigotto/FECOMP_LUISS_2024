@@ -60,7 +60,7 @@ Questo corso funge da introduzione all'[economia comportamentale](https://news.u
 
 Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e fattori che influenzano le decisioni. Il modulo 2 tratta argomenti quali le distorsioni nell'elaborazione di nuove informazioni, l'altruismo, le interazioni strategiche e i *nudge*.
 
-In calce a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
+In fondo a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
 
 
 ## 📌 Letture
@@ -71,65 +71,64 @@ In calce a questa pagina è riportato il programma dettagliato del corso. Le lez
 
 ## 📌 Modalità di valutazione
 
-Detailed information about the examination rules and regulations can be found [HERE](https://github.com/ncampigotto/BECDM_LUISS_2023/blob/main/Other/FEB_Handbook_2023-24_ENG.pdf).
+Per informazioni dettagliate sul regolamento di atenea in materia di esami, consulta il vademecum che trovi a [QUESTO](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf) link.
 
-### Attending students
 
-| **Objective**                                             |   **Assessment method**                       | 
+### Studenti frequentanti
+
+| Prova | Punteggio | 
 |:----------------------------------------------------------|:----------------------------------------------|
-| Interpret results from research papers                    |   In-class quizzes (x5) <br> Student presentation (x1)  |
-| Understand and analyze experimental data                  |   Written assignments (x3)                              |
-| Demonstrate knowledge of key theories and policy findings |   Final written exam (x1)                               |
+| Presenza e partecipazione | Fino a 3 punti |
+| Quiz in classe (x5) |   Fino a 5 punti (fino a un punto per quiz) |
+| Elaborati di analisi di dati sperimentali (x3) | Fino a 9 punti (fino a 3 punti per elaborato) |
+| *Policy brief* | Fino a 4 punti |
+| Esame finale | Fino a 10 punti |
 
-Assignments, presentations, and in-class quizzes will be completed in groups formed at the beginning of the course. Once formed, groups will not be changed.
+I quiz in classe, gli elaborati di analisi dei dati e il *policy brief* saranno valutati in gruppi la cui composizione verrà comunicata all'inizio del corso.
 
-If you attend classes, then your grade will be determined as follows:
-+   In-class quizzes are worth up to a total of 5 points
-+   Each group assignment is worth up to 5 points
-+   The group presentation is worth up to 3 points
-+   The final exam is worth up to 10 points
-
-The final course grade will be scored on a 30-point scale, with 18 being the minimum pass grade. Scores above 30 will be graded as 30 e lode (with distinction).
+Il voto finale del corso sarà assegnato su una scala in trentesimi. La lode sarà assegnata solo qualora il punteggio finale superi il 30.
 
 > [!IMPORTANT]
-> Please pay attention to the following rules:
-> 1. If you do not take an in-class quiz, you will receive zero points for that quiz.
-> 2. Group assignments must be submitted by the scheduled due date. If you do not hand in an assignment or hand it in late, then you will receive zero points for that assignment. No excuses will be accepted for late submissions.
+> Presta attenzione alle seguenti regole:
+> 1. Se non partecipi a un quiz in classe, riceverai zero punti per quel quiz.
+> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non saranno accettate scuse per la consegna tardiva.
+
+### Studenti non frequentanti
+
+| Prova | Punteggio | 
+|:----------------------------------------------------------|:----------------------------------------------|
+| Esame finale | Fino a 32 punti |
 
 
-### Non-attending students
+## 📌 Struttura degli esami
 
-If you do not attend classes, then your assessment will be based on a comprehensive written exam worth 100% of the course grade.
+- L'esame finale per gli **studenti frequentanti** consisterà di una sola domanda a risposta aperta tratta dal programma del Modulo 1 o del Modulo 2. 
 
+- L'esame finale per gli **studenti non frequentanti** consisterà di tre domande a risposta aperta tratte da entrambi i moduli. Due domande saranno basate sul manuale, mentre la terza domanda sarà basata sulle altre letture obbligatorie. 
 
-## 📌 Structure of the exams
-
-The final exam for attending students will consist of one open-ended question from either Module 1 or Module 2. 
-
-The comprehensive exam for non-attending students will consist of three open-ended questions from both modules. Two questions will be based on the textbook, while the third question will be based on the other required readings. 
-
-All exams will be closed-book, closed-notes.
+Durante gli esami non sarà possibile consultare manuale e appunti. 
 
 
-## 📌 In-class quizzes
+## 📌 Quiz in classe
 
-During the course, you will be required to work in groups to complete five in-class quizzes, each approximately 20 minutes in length. The quizzes will be based on one or two research papers to be read before class.
+Durante il corso dovrai prendere parte a cinque quiz svolti in classe, ciascuno della durata di circa 20 minuti. I quiz valuteranno la comprensione di uno o due articoli scientifici da leggere prima della lezione. 
 
-Each quiz will consist of 5 multiple choice or true/false questions. There will be no penalty for wrong answers and each correct answer will be worth 0.2 points (so the maximum possible score is 1 point per quiz). Sometimes you will be asked to briefly justify your answer: answers without justification will be marked as incorrect.
+Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta varrà 0,2 punti (quindi il punteggio massimo possibile è di 1 punto per quiz).
 
-Your total score for in-class quizzes will be the sum of all five scores. Decimals will be rounded to the nearest whole number.
+I quiz verranno svolti in autonomia ma saranno valutati a gruppi: il punteggio assegnato a ciascun gruppo per ogni quiz sarà dato dalla media dei punteggi ottenuti dai membri del gruppo in quel quiz. Agli studenti assenti verranno assegnati zero punti.
+
+Il punteggio totale dei quiz in classe sarà dato dalla somma di tutti e cinque i punteggi. Dopo aver sommato i punteggi, i decimali saranno arrotondati al numero intero più vicino.
+
+## 📌 Elaborati di analisi dei dati
+
+Parte delle lezioni consisterà nel partecipare a degli esperimenti economici svolti in classe. Ogni gruppo dovrà poi analizzare i risultati degli esperimenti e scrivere tre brevi elaborati per rispondere ad alcune domande. L'analisi dei dati sarà effettuata con [Stata](https://www.stata.com).
+
+L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È tua responsabilità assicurarti che il software sia correttamente installato sul tuo computer. 
+
+Per aiutarti a prendere confidenza con Stata, verrà offerto un tutorial in classe.
 
 
-## 📌 Written assignments
-
-As part of your coursework, you will take part in three experiments. Each group will then have to analyze the data set of experimental results and write a short report to answer some questions. The analysis will be performed using [Stata](https://www.stata.com).
-
-The University provides a free Stata licence to all students. You are responsible for ensuring that the software is properly installed on your computer. 
-
-A tutorial will be given in class to help you become familiar with Stata.
-
-
-## 📌 Student presentations
+## 📌 *Policy brief*
 
 Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
 
@@ -142,7 +141,7 @@ Half of the groups will be randomly selected to present during the sixth week of
 > Knowledge of these papers will **not** be assessed in the written exams.
 
 
-| No.   | **Paper**        | 
+|   | **Articolo**        | 
 |:------|:------------------|
 | 1     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
 | 2     | Sharpe, Staelin and Huber (2008), "[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)", *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
