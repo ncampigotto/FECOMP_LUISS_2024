@@ -32,7 +32,7 @@ Credenziali LUISS necessarie per l'accesso.
 
 ## 📌 Orario delle lezioni
 
-Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) saranno erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta regolamente l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
+Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) saranno erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
 
 - Canale A
     + Lunedì, 11.30-13.00 (aula A307)    
@@ -54,17 +54,19 @@ Elementi di microeconomia e statistica.
 
 ## 📌 Panoramica del corso
 
-This course explores topics in [behavioural economics](https://news.uchicago.edu/explainer/what-is-behavioral-economics), which seeks to explain how psychological factors influence human decision-making. The aim of the course is to provide you with a solid understanding of (i) why people make the choices they do and (ii) how behavioural insights can be used to inform business strategies and advance policies on health, energy, taxation, and more.    
+Questo corso funge da introduzione all'[economia comportamentale](https://news.uchicago.edu/explainer/what-is-behavioral-economics). L'obiettivo è quello di fornire una solida comprensione di: 
+- quali sono i fattori psicologici che influenzano i processi decisionali;
+- come è possibile far leva su questi fattori per implementare strategie aziendali e politiche pubbliche riguardanti la salute, l'energia, la tassazione e altro ancora.
 
-The course consists of two modules. Module 1 introduces the conceptual foundations of behavioural economics and contrasts them with traditional microeconomic theory. Topics covered in this module include prospect theory, loss aversion, and other choice biases and heuristics. Module 2 covers topics such as people's ability to use new information, social preferences, and nudges. 
+Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e fattori che influenzano le decisioni. Il modulo 2 tratta argomenti quali le distorsioni nell'elaborazione di nuove informazioni, l'altruismo, le interazioni strategiche e i *nudge*.
 
-A detailed outline of the course is given below. Lectures will combine theory and experimental evidence.
+In calce a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
 
 
 ## 📌 Letture
 
-+  Materiali forniti a lezione
-+  Manuale di approfondimento: Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), terza edizione, Routledge
++  Manuale: Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), terza edizione, Routledge
++  Articoli scientifici e altri materiali forniti durante il corso
 
 
 ## 📌 Modalità di valutazione
