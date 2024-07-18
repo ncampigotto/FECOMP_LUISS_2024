@@ -35,7 +35,7 @@ Credenziali LUISS necessarie per l'accesso.
 Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) saranno erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta regolamente l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
 
 - Canale A
-    + Lunedì, 11.30-13.00 (aula A307)
+    + Lunedì, 11.30-13.00 (aula A307)    
       oppure Lunedì, 11.30-13.00 (gruppo 1, aula A307) e 14.00-15.30 (gruppo 2, aula A104)   
     + Venerdì, 13.45-15.15 (aula A204)  
 - Canale B
