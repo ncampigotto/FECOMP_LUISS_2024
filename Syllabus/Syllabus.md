@@ -70,7 +70,7 @@ Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Beh
 
 ## 📌 Modalità di valutazione
 
-Il voto finale del corso è assegnato su una scala in trentesimi. La lode viene assegnata solo qualora il punteggio finale superi il 30. 
+Il voto finale del corso è assegnato in trentesimi. La lode viene assegnata solo qualora il punteggio complessivo superi il 30. 
 
 Per informazioni dettagliate sul regolamento di ateneo in materia di esami, consulta il vademecum che trovi a [QUESTO](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf) link.
 
@@ -92,6 +92,7 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 > 1. Se non partecipi a un quiz in classe, riceverai zero punti per quel quiz.
 > 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non sono accettate scuse per le consegne tardive.
 > 3. Il punteggio relativo a frequenza e partecipazione è assegnato come segue: 2 punti per chi partecipa a oltre l'80% delle lezioni; 1 punto per chi partecipa a una percentuale di lezioni compresa tra il 50% e l'80%; 0 punti per chi partecipa a meno del 50% delle lezioni. Il terzo punto è assegnato a discrezione dei docenti sulla base della partecipazione in classe.
+> 4. 
 
 ### ▶️ Studenti non frequentanti
 
