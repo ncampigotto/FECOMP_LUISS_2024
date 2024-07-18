@@ -25,7 +25,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 | 12           | Salienza e *nudge*                            | Campigotto        |                        |
 
 
-### 📉 Dati per gli elaborati sperimentali
+### 📉 Dati e domande per gli elaborati sperimentali
 
 | Elaborato    | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
