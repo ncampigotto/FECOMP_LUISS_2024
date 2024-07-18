@@ -24,7 +24,7 @@ Ricevimento: su appuntamento
 
 ## 📌 Pagine del corso 
 
-Credenziali LUISS necessarie per l'accesso.
+Per eseguire l'accesso sono necessarie le credenziali LUISS.
 
 - Canale A: <https://learn.luiss.it/course/view.php?id=23313>
 - Canale B: <https://learn.luiss.it/course/view.php?id=23314>
@@ -36,12 +36,12 @@ Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì
 
 - Canale A
     + Lunedì, 11.30-13.00 (aula A307)    
-      oppure Lunedì, 11.30-13.00 (gruppo 1, aula A307) e 14.00-15.30 (gruppo 2, aula A104)   
+      <ins> oppure </ins> Lunedì, 11.30-13.00 (gruppo 1, aula A307) e 14.00-15.30 (gruppo 2, aula A104)   
     + Venerdì, 13.45-15.15 (aula A204)  
 - Canale B
     + Lunedì, 17.15-18.45 (aula A209)   
     + Giovedì, 14.45-16.15 (aula A204)    
-      oppure Giovedì, 14.45-16.15 (gruppo 1, aula A204) e 16.30-18.00 (gruppo 2, aula A307)        
+      <ins> oppure </ins> Giovedì, 14.45-16.15 (gruppo 1, aula A204) e 16.30-18.00 (gruppo 2, aula A307)        
 
 > [!IMPORTANT]
 > La frequenza è obbligatoria e sarà oggetto di valutazione. Le lezioni non saranno registrate.
@@ -58,7 +58,7 @@ Questo corso funge da introduzione all'[economia comportamentale](https://news.u
 - quali sono i fattori psicologici che influenzano i processi decisionali;
 - come è possibile far leva su questi fattori per implementare strategie aziendali e politiche pubbliche riguardanti la salute, l'energia, la tassazione e altro ancora.
 
-Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e fattori che influenzano le decisioni. Il modulo 2 tratta argomenti quali le distorsioni nell'elaborazione di nuove informazioni, l'altruismo, le interazioni strategiche e i *nudge*.
+Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e *bias* che influenzano le decisioni. Il modulo 2 tratta argomenti quali le distorsioni nell'elaborazione di nuove informazioni, l'altruismo, le interazioni strategiche e i *nudge*.
 
 In fondo a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
 
@@ -91,7 +91,7 @@ Il voto finale del corso sarà assegnato su una scala in trentesimi. La lode sar
 > [!IMPORTANT]
 > Presta attenzione alle seguenti regole:
 > 1. Se non partecipi a un quiz in classe, riceverai zero punti per quel quiz.
-> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non saranno accettate scuse per la consegna tardiva.
+> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. In caso di consegna tardiva non saranno accettate scuse.
 
 ### Studenti non frequentanti
 
