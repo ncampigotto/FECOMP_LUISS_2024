@@ -32,7 +32,7 @@ Per eseguire l'accesso sono necessarie le credenziali LUISS.
 
 ## 📌 Orario delle lezioni
 
-Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) saranno erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
+Tutte le lezioni si tengono nella sede di Viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) sono erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
 
 - Canale A
     + Lunedì, 11.30-13.00 (aula A307)    
@@ -44,7 +44,7 @@ Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì
       <ins> oppure </ins> Giovedì, 14.45-16.15 (gruppo 1, aula A204) e 16.30-18.00 (gruppo 2, aula A307)        
 
 > [!IMPORTANT]
-> La frequenza è obbligatoria e sarà oggetto di valutazione. Le lezioni non saranno registrate.
+> La frequenza è obbligatoria ed è oggetto di valutazione. Le lezioni non sono registrate.
 
 
 ## 📌 Prerequisiti
@@ -60,7 +60,7 @@ Questo corso funge da introduzione all'[economia comportamentale](https://news.u
 
 Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e *bias* che influenzano le decisioni. Il modulo 2 tratta argomenti quali l'elaborazione di nuove informazioni, i pregiudizi, l'altruismo, le interazioni strategiche e i *nudge*.
 
-In fondo a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
+In fondo a questa pagina è riportato il programma dettagliato del corso. Le lezioni combinano teoria ed evidenza empirica.
 
 
 ## 📌 Manuale
@@ -70,29 +70,29 @@ Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Beh
 
 ## 📌 Modalità di valutazione
 
-Per informazioni dettagliate sul regolamento di atenea in materia di esami, consulta il vademecum che trovi a [QUESTO](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf) link.
+Il voto finale del corso è assegnato su una scala in trentesimi. La lode viene assegnata solo qualora il punteggio finale superi il 30. 
+
+Per informazioni dettagliate sul regolamento di ateneo in materia di esami, consulta il vademecum che trovi a [QUESTO](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf) link.
 
 
-### Studenti frequentanti
+### ▶️ Studenti frequentanti
 
 | Prova | Punteggio | 
 |:----------------------------------------------------------|:----------------------------------------------|
-| Presenza e partecipazione | Fino a 3 punti |
+| Presenza e partecipazione in classe | Fino a 3 punti |
 | Quiz in classe (x5) |   Fino a 5 punti (fino a un punto per quiz) |
 | Elaborati di analisi di dati sperimentali (x3) | Fino a 9 punti (fino a 3 punti per elaborato) |
 | *Policy brief* | Fino a 4 punti |
 | Esame finale | Fino a 10 punti |
 
-I quiz in classe, gli elaborati di analisi dei dati e il *policy brief* saranno valutati in gruppi la cui composizione verrà comunicata all'inizio del corso.
-
-Il voto finale del corso sarà assegnato su una scala in trentesimi. La lode sarà assegnata solo qualora il punteggio finale superi il 30.
+La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in gruppi, la cui composizione è comunicata all'inizio del corso.
 
 > [!IMPORTANT]
 > Attenzione alle seguenti regole:
 > 1. Se non partecipi a un quiz in classe, riceverai zero punti per quel quiz.
-> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. In caso di consegna tardiva non saranno accettate scuse.
+> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non sono accettate scuse per le consegne tardive.
 
-### Studenti non frequentanti
+### ▶️ Studenti non frequentanti
 
 | Prova | Punteggio | 
 |:----------------------------------------------------------|:----------------------------------------------|
@@ -101,16 +101,16 @@ Il voto finale del corso sarà assegnato su una scala in trentesimi. La lode sar
 
 ## 📌 Struttura degli esami
 
-- L'esame finale per gli **studenti frequentanti** consisterà di una sola domanda a risposta aperta tratta dal programma del Modulo 1 o del Modulo 2. 
+- L'esame finale per gli studenti <ins> frequentanti </ins> consiste di una sola domanda a risposta aperta tratta dal programma del Modulo 1 o del Modulo 2. 
 
-- L'esame finale per gli **studenti non frequentanti** consisterà di tre domande a risposta aperta tratte da entrambi i moduli. Due domande saranno basate sul manuale, mentre la terza domanda sarà basata sulle altre letture obbligatorie. 
+- L'esame finale per gli studenti <ins> non frequentanti </ins> consiste di tre domande a risposta aperta tratte da entrambi i moduli. Due domande sono basate sul manuale, mentre la terza domanda è basata sulle altre letture obbligatorie. 
 
-Durante gli esami non sarà possibile consultare manuale e appunti. 
+Durante gli esami non è possibile consultare manuale e appunti. 
 
 
 ## 📌 Quiz in classe
 
-Durante il corso prenderai parte a cinque quiz svolti in classe, ciascuno della durata di 20 minuti circa. I quiz valuteranno la tua comprensione di uno o due articoli scientifici da leggere prima della lezione. 
+Il corso prevede 5 quiz in itinere svolti in classe, ciascuno della durata di 20 minuti circa. I quiz valutano la comprensione di uno o due articoli scientifici da leggere prima della lezione. 
 
 | Numero quiz  | **Articolo**        | 
 |:------|:------------------|
@@ -121,11 +121,11 @@ Durante il corso prenderai parte a cinque quiz svolti in classe, ciascuno della 
 | 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
 | 5     | Blumenstock, Callen e Ghani (2018), "[Why do defaults affect behavior? Experimental evidence from Afghanistan](https://doi.org/10.1257/aer.20171676)", *American Economic Review*, vol. 108, n. 10, pp. 2868-2901 |
 
-Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta varrà 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz).
+Ogni quiz consiste di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta vale 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz).
 
-I quiz verranno svolti in autonomia ma saranno valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz sarà dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti verranno assegnati zero punti.
+I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti vengono assegnati zero punti.
 
-Il punteggio totale dei quiz sarà dato dalla somma di tutti e cinque i punteggi arrotondata al numero intero più vicino.
+Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
 > Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
@@ -133,17 +133,16 @@ Il punteggio totale dei quiz sarà dato dalla somma di tutti e cinque i punteggi
 
 ## 📌 Elaborati di analisi dei dati
 
-Parte delle lezioni consisterà nel partecipare a degli esperimenti economici svolti in classe. Ogni gruppo dovrà poi analizzare i risultati degli esperimenti e scrivere tre brevi elaborati per rispondere ad alcune domande. L'analisi dei dati sarà effettuata con [Stata](https://www.stata.com).
+Parte delle lezioni prevede la partecipazione a degli esperimenti svolti in classe. Ciascun gruppo ha poi il compito di analizzare i risultati degli esperimenti e redigere tre brevi elaborati per rispondere a delle domande.
 
-L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È tua responsabilità assicurarti che il software sia correttamente installato sul tuo computer. 
+L'analisi dei dati è effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È tua responsabilità assicurarti che il software sia correttamente installato sul tuo computer. 
 
-Per aiutarti a prendere confidenza con Stata, verrà organizzato un apposito tutorial in classe.
 
 ## 📌 *Policy brief*
 
 Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica in modo da informare e guidare le politiche pubbliche. Per un esempio, clicca [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
 
-All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno degli articoli proposti nella tabella qui sotto, coordinandovi con gli altri gruppi in modo tale che nessun articolo venga scelto da più di tre gruppi. Le scelte vanno riportate [QUI](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing).
+All'inizio del corso, tu e gli altri membri del tuo gruppo dovete scegliere uno degli articoli proposti nella tabella qui sotto, coordinandovi con gli altri gruppi in modo tale che nessun articolo venga scelto da più di tre gruppi. Le scelte vanno riportate [QUI](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing).
 
 |   | **Articolo**        | 
 |:------|:------------------|
@@ -153,7 +152,7 @@ All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno
 | 4     | Giné, Karlan e Zinman (2010), "[Put your money where your butt is: A commitment contract for smoking cessation](https://doi.org/10.1257/app.2.4.213)", *American Economic Journal: Applied Economics*, vol. 2, n. 4, pp. 213-235 |
 | 5     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
 
-Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato sarà valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
+Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato è valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
 Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle e grafici presi dall'articolo o creati *ex novo* dal gruppo. Il testo va organizzato utilizzando le seguenti sezioni.
 - Obiettivo dell'intervento di policy (2-3 frasi)
@@ -163,11 +162,8 @@ Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle
 - Raccomandazioni di policy: qual è la rilevanza dello studio per il disegno di nuove politiche pubbliche?
 
 > [!IMPORTANT]
-> - Gli elaborati andranno caricati sulla pagina del corso entro e non oltre le <ins> 23.59 di venerdì 29 novembre 2024</ins>.
+> - Gli elaborati vanno caricati sulla pagina del corso entro e non oltre le <ins> 23.59 di venerdì 29 novembre 2024</ins>.
 > - Il contenuto degli articoli riportati nella tabella qui sopra <ins>non</ins> sarà valutato negli esami finali.
-
-
-
 
 
 ## 📌 Programma dettagliato
