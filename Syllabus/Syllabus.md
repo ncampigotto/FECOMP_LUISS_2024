@@ -228,7 +228,6 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Fehr e Leibbrandt (2011), "[A field study on cooperativeness and impatience in the tragedy of the commons](https://doi.org/10.1016/j.jpubeco.2011.05.013)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1144-1155
         - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
         - Levitt e List (2007), "[What do laboratory experiments measuring social preferences reveal about the real world?](https://doi.org/10.1257/jep.21.2.153)", *Journal of Economic Perspectives*, vol. 21, n. 2, pp. 153-174
-        - Ostrom (2010), "[The challenge of common-pool resources](https://doi.org/10.3200/ENVT.50.4.8-21)", *Environment: Science and Policy for Sustainable Development*, vol. 50, n. 4, pp. 8-21
     + *Attività:*  
         - ❓ Terzo quiz in classe
         - 🔬 Terzo esperimento in classe    
