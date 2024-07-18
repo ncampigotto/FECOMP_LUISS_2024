@@ -111,7 +111,7 @@ Durante gli esami non sarà possibile consultare manuale e appunti.
 
 ## 📌 Quiz in classe
 
-Durante il corso dovrai prendere parte a cinque quiz svolti in classe, ciascuno della durata di circa 20 minuti. I quiz valuteranno la comprensione di uno o due articoli scientifici da leggere prima della lezione. 
+Durante il corso prenderai parte a cinque quiz svolti in classe, ciascuno della durata di 20 minuti circa. I quiz valuteranno la tua comprensione di uno o due articoli scientifici da leggere prima della lezione. 
 
 | Numero quiz  | **Articolo**        | 
 |:------|:------------------|
@@ -127,6 +127,10 @@ Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono prev
 I quiz verranno svolti in autonomia ma saranno valutati a gruppi: il punteggio assegnato a ciascun gruppo per ogni quiz sarà dato dalla media dei punteggi ottenuti dai membri del gruppo in quel quiz. Agli studenti assenti verranno assegnati zero punti.
 
 Il punteggio totale dei quiz in classe sarà dato dalla somma di tutti e cinque i punteggi. Dopo aver sommato i punteggi, i decimali saranno arrotondati al numero intero più vicino.
+
+> [!IMPORTANT]
+> Le letture riportate nella tabella sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
+
 
 ## 📌 Elaborati di analisi dei dati
 
