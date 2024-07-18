@@ -138,7 +138,9 @@ All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno
 |:------|:------------------|
 | 1     | Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019        |
 | 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
-| 3     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, vol. 134, n. 659, pp. 913–933           |
+| 3     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://doi.org/10.1093/ej/uead102)", *Economic Journal*, vol. 134, n. 659, pp. 913–933           |
+| 4     | Coffman, Featherstone e Kessler (2017), "[Can social information affect what job you choose and keep?](https://doi.org/10.1257/app.20140468)" *American Economic Journal: Applied Economics*, vol. 9, n. 1, pp. 96-117 |
+
 
 Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato sarà valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
