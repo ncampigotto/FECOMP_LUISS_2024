@@ -136,11 +136,12 @@ All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno
 
 |   | **Articolo**        | 
 |:------|:------------------|
-| 1     | Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019        |
-| 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
-| 3     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://doi.org/10.1093/ej/uead102)", *Economic Journal*, vol. 134, n. 659, pp. 913–933           |
-| 4     | Coffman, Featherstone e Kessler (2017), "[Can social information affect what job you choose and keep?](https://doi.org/10.1257/app.20140468)" *American Economic Journal: Applied Economics*, vol. 9, n. 1, pp. 96-117 |
-
+| 1     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://doi.org/10.1093/ej/uead102)", *Economic Journal*, vol. 134, n. 659, pp. 913-933 |
+| 2     | Burland, Dynarski, Michelmore, Owen e Raghuraman (2023), "[The power of certainty: Experimental evidence on the effective design of free tuition programs](https://doi.org/10.1257/aeri.20220094)", *American Economic Review: Insights*, vol. 5, no. 3, pp. 293-310 |
+| 3     | Coffman, Featherstone e Kessler (2017), "[Can social information affect what job you choose and keep?](https://doi.org/10.1257/app.20140468)", *American Economic Journal: Applied Economics*, vol. 9, n. 1, pp. 96-117 |
+| 4     | Giné, Karlan e Zinman (2010), "[Put your money where your butt is: A commitment contract for smoking cessation](https://doi.org/10.1257/app.2.4.213)", *American Economic Journal: Applied Economics*, vol. 2, n. 4, pp. 213-235 |
+| 5     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
+| 6     | Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019        |
 
 Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato sarà valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
@@ -176,7 +177,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Cartwright, Capitolo 2
         - Thaler e Sunstein (2008), *Nudge: Improving Decisions About Health, Wealth, and Happiness*, Yale University Press, Capitolo 1
         - °Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206
-        - Santos Póvoa, Pech, Camou Viacava e Schwartz (2020), "[Is the beauty premium accessible to all? An experimental analysis](https://doi.org/10.1016/j.joep.2020.102252)", *Journal of Economic Psychology*, vol. 78, n. 102252
+        - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
     + *Attività:*
         - ❓ Primo quiz in classe                 
 * `[Settimana 3]` Introduzione all'analisi dei dati con Stata (porta il tuo laptop!)             
@@ -186,12 +187,13 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Cordes, Dertwinkel-Kalt e Werner (2023), "[What drives demand for loot boxes? An experimental study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349674)", working paper
         - Kirchler, Lindner e Weitzel (2018), "[Rankings and risk-taking in the finance industry](https://doi.org/10.1111/jofi.12701)", *Journal of Finance*, vol. 73, n. 5, pp. 2271-2302
     + *Attività:*
-        - 🔬 Primo esperimento     
+        - 🔬 Primo esperimento in classe      
 * `[Settimana 6]` Scelte intertemporali  
     + *Letture:*
         - Cartwright, Capitolo 4
         - °Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039
         - Della Vigna e Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, n. 3, pp. 694-719
+        - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
     + *Attività:*
         - ❓ Secondo quiz in classe    
         - 📝 Invio del primo elaborato sperimentale
@@ -207,7 +209,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](https://doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, n. 3, pp. 831–870
         - Schwardmann, Tripodi e van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372)",  *American Economic Review*, vol. 112, n. 4, pp. 1118-1146
     + *Attività:*  
-        - 🔬 Secondo esperimento
+        - 🔬 Secondo esperimento in classe    
 
 * `[Settimana 9]` Interazioni sociali  
     + *Letture:*  
@@ -220,7 +222,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Ostrom (2010), "[The challenge of common-pool resources](https://doi.org/10.3200/ENVT.50.4.8-21)", *Environment: Science and Policy for Sustainable Development*, vol. 50, n. 4, pp. 8-21
     + *Attività:*  
         - ❓ Terzo quiz in classe
-        - 🔬 Terzo esperimento
+        - 🔬 Terzo esperimento in classe    
         - 📝 Invio del secondo elaborato sperimentale
 * `[Settimane 10 e 11]` Preferenze e confronti sociali  
     + *Letture:*   
@@ -232,7 +234,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - 
     + *Attività:*
         - ❓ Quarto quiz in classe
-        - 🔬 Quarto esperimento
+        - 🔬 Quarto esperimento in classe    
 
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
