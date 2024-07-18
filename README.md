@@ -27,9 +27,9 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 
 ### 📉 Dati per gli elaborati sperimentali
 
-|              | **Data di consegna**                                | **Dati**          | **Domande**    |
+| Elaborato    | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
-| Elaborato 1 | TBD | |
-| Elaborato 2 | TBD | |
-| Elaborato 3 | TBD | |
+| 1 | TBD | |
+| 2 | TBD | |
+| 3 | TBD | |
 
