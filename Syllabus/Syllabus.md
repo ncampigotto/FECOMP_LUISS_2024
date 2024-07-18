@@ -182,69 +182,81 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
 
 * `[Settimana 1]` Introduzione all'economia comportamentale  
     - *Letture:*  
-        + Cartwright, Capitolo 1       
-* `[Settimana 2]` Euristiche semplici per scelte complesse  
+        + Cartwright, Capitolo 1
+* `[Settimana 2]` Euristiche e *bias*  
     + *Letture:*          
         - Cartwright, Capitolo 2
         - Thaler e Sunstein (2008), *Nudge: Improving Decisions About Health, Wealth, and Happiness*, Yale University Press, Capitolo 1
-        - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
     + *Attività:*
-        - ❓ Primo quiz in classe                 
-* `[Settimana 3]` Introduzione all'analisi dei dati con Stata (porta il tuo laptop!)             
+        - ❓ Primo quiz in classe        
+* `[Settimana 3]` Introduzione all'analisi dei dati con Stata (porta il tuo laptop!)       
 * `[Settimane 4 e 5]` Scelte in condizioni di rischio e incertezza  
     + *Letture:*  
         - Cartwright, Capitolo 3
+        - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
         - Cordes, Dertwinkel-Kalt e Werner (2023), "[What drives demand for loot boxes? An experimental study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349674)", working paper
         - Kirchler, Lindner e Weitzel (2018), "[Rankings and risk-taking in the finance industry](https://doi.org/10.1111/jofi.12701)", *Journal of Finance*, vol. 73, n. 5, pp. 2271-2302
     + *Attività:*
-        - 🔬 Primo esperimento in classe      
+        - 🔬 Primo esperimento in classe  
 * `[Settimana 6]` Scelte intertemporali  
     + *Letture:*
         - Cartwright, Capitolo 4
-        - Della Vigna e Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, n. 3, pp. 694-719
+        - DellaVigna e Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, n. 3, pp. 694-719
         - Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019
     + *Attività:*
         - ❓ Secondo quiz in classe    
-        - 📝 Invio del primo elaborato sperimentale
+        - 📝 Consegna del primo elaborato sperimentale
+
 
 ### Modulo 2 (Campigotto)
 
 *  `[Settimane 7 e 8]` Apprendimento, narrazioni, pregiudizi e persuasione   
     + *Letture:*  
         - Cartwright, Capitolo 5 (Sezioni 5.1.0, 5.2.0, 5.2.1 e 5.2.3)
-        - Bursztyn, Rao, Roth e Yanagizawa-Drott (2023) "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, n. 4, pp. 1832-1864
+        - Bursztyn, Rao, Roth e Yanagizawa-Drott (2023), "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, n. 4, pp. 1832-1864
         - Graeber, Roth e Zimmermann (2024), "[Stories, statistics, and memory](https://raw.githubusercontent.com/cproth/papers/master/SSM_May2024.pdf)", *Quarterly Journal of Economics*, di prossima pubblicazione
-        - Leib, Köbis, Rilke, Hagens e Irlenbusch (2024), "[Corrupted by Algorithms? How AI-generated and Human-written Advice Shape (Dis)honesty](https://doi.org/10.1093/ej/uead056)", *Economic Journal*, vol. 134, n. 658, pp. 766-784
-        - Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](https://doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, n. 3, pp. 831–870
+        - Leib, Köbis, Rilke, Hagens e Irlenbusch (2024), "[Corrupted by algorithms? How AI-generated and human-written advice shape (dis)honesty](https://doi.org/10.1093/ej/uead056)", *Economic Journal*, vol. 134, n. 658, pp. 766-784
+        - Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](https://doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, n. 3, pp. 831-870
+        - Mislavsky e Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68, n. 1, pp. 541-563
         - Schwardmann, Tripodi e van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372)",  *American Economic Review*, vol. 112, n. 4, pp. 1118-1146
     + *Attività:*  
         - 🔬 Secondo esperimento in classe    
-
 * `[Settimana 9]` Interazioni sociali  
     + *Letture:*  
         - Cartwright, Capitolo 7 (Sezioni da 7.1.0 a 7.1.5) e 11 (Sezione 11.1.1)
         - Ehret, Constantino, Weber, Efferson e Vogt (2022), "[Group identities can undermine social tipping after intervention](https://doi.org/10.1038/s41562-022-01440-5)", *Nature Human Behavior*, vol. 6, pp. 1669-1679
-        - Fehr e Leibbrandt (2011), "[A field study on cooperativeness and impatience in the tragedy of the commons](https://doi.org/10.1016/j.jpubeco.2011.05.013)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1144–1155
+        - Fehr e Leibbrandt (2011), "[A field study on cooperativeness and impatience in the tragedy of the commons](https://doi.org/10.1016/j.jpubeco.2011.05.013)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1144-1155
         - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
         - Levitt e List (2007), "[What do laboratory experiments measuring social preferences reveal about the real world?](https://doi.org/10.1257/jep.21.2.153)", *Journal of Economic Perspectives*, vol. 21, n. 2, pp. 153-174
         - Ostrom (2010), "[The challenge of common-pool resources](https://doi.org/10.3200/ENVT.50.4.8-21)", *Environment: Science and Policy for Sustainable Development*, vol. 50, n. 4, pp. 8-21
     + *Attività:*  
         - ❓ Terzo quiz in classe
         - 🔬 Terzo esperimento in classe    
-        - 📝 Invio del secondo elaborato sperimentale
+        - 📝 Consegna del secondo elaborato sperimentale
 * `[Settimane 10 e 11]` Preferenze e confronti sociali  
     + *Letture:*   
         - Cartwright, Capitolo 7 (Sezioni da 7.2.0 a 7.5.3)
-        - Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482
-        - Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper
+        - Allcott (2011), "[Social norms and energy conservation](https://doi.org/10.1016/j.jpubeco.2011.03.003)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1082-1095
+        - Andreoni (1990), "[Impure altruism and donations to public goods: A theory of warm-glow giving](https://doi.org/10.2307/2234133)", *Economic Journal*, vol. 100, n. 101, pp. 464-477
+        - Andreoni, Rao e Trachtman (2017), "[Avoiding the ask: A field experiment on altruism, empathy, and charitable giving](https://doi.org/10.1086/691703)", *Journal of Political Economy*, vol. 125, n. 3, pp. 625-653
+        - Birkeland, Cappelen, Sørensen e Tungodden (2014), "[An experimental study of prosocial motivation among criminals](https://doi.org/10.1007/s10683-013-9380-x)", *Experimental Economics*, vol. 17, pp. 501-511
+        - Cappelen, Eichele, Hugdahl, Specht, Sørensen e Tungodden (2014), "[Equity theory and fair inequality: A neuroeconomic study](https://doi.org/10.1073/pnas.1414602111)", *Proceedings of the National Academy of Sciences*, vol. 111, n. 43, pp. 15368-15372
+        - DellaVigna, List e Malmendier (2012), "[Testing for altruism and social pressure in charitable giving](https://doi.org/10.1093/qje/qjr050)", *Quarterly Journal of Economics*, vol. 127, n. 1, pp. 1-56
+        - Fabbri e Bigoni (2021), "[How property shapes distributional preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114305)", *IZA Discussion Paper*, n. 14768
+        - Goldstein, Cialdini e Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482
+        - Gneezy e Rustichini (2000), "[A fine is a price](https://doi.org/10.1086/468061)", *Journal of Legal Studies*, vol. 29, n. 1, pp. 1-17
+        - Goette e Tripodi (2024), "[The limits of social recognition: Experimental evidence from blood donors](https://doi.org/10.1016/j.jpubeco.2024.105069)", *Journal of Public Economics*, vol. 231, n. 105069
     + *Attività:*
         - ❓ Quarto quiz in classe
         - 🔬 Quarto esperimento in classe    
-
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
         - Cartwright, Capitolo 11 (Sezioni da 11.2.0 a 11.2.5)
         - Hagmann, Ho e Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489
+        - Chetty, Looney e Kroft (2009), "[Salience and taxation: Theory and evidence](https://doi.org/10.1257/aer.99.4.1145)", *American Economic Review*, vol. 99, n. 4, pp. 1145-1177
+        - Kurz (2018), "[Nudging to reduce meat consumption: Immediate and persistent effects of an intervention at a university restaurant](https://doi.org/10.1016/j.jeem.2018.06.005)", *Journal of Environmental Economics and Management*, vol. 90, pp. 317-341
+        - Madrian e Shea (2001), "[The power of suggestion: Inertia in 401(k) participation and savings behavior](https://doi.org/10.1162/003355301753265543)", *Quarterly Journal of Economics*, vol. 116, n. 4, pp. 1149-1187
+        - Scheiber (2017) "[How Uber uses psychological tricks to push its drivers' buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html), *New York Times*
     + *Attività:*  
         - ❓ Quinto quiz in classe
-        - 📝 Invio del terzo elaborato sperimentale e del *policy brief*
+        - 📝 Consegna del terzo elaborato sperimentale e del *policy brief*
