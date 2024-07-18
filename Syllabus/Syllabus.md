@@ -141,7 +141,6 @@ All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno
 | 3     | Coffman, Featherstone e Kessler (2017), "[Can social information affect what job you choose and keep?](https://doi.org/10.1257/app.20140468)", *American Economic Journal: Applied Economics*, vol. 9, n. 1, pp. 96-117 |
 | 4     | Giné, Karlan e Zinman (2010), "[Put your money where your butt is: A commitment contract for smoking cessation](https://doi.org/10.1257/app.2.4.213)", *American Economic Journal: Applied Economics*, vol. 2, n. 4, pp. 213-235 |
 | 5     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
-| 6     | Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019        |
 
 Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato sarà valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
