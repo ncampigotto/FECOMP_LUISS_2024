@@ -176,7 +176,7 @@ Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle
 Eventuali modifiche a questo programma saranno annunciate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
 
 > [!IMPORTANT]
-> La lettura dei capitoli del manuale elencati qui sotto è obbligatoria per gli studenti non frequentanti e sarà oggetto di due delle tre domande dell'esame.
+> Il contenuto dei capitoli del manuale elencati qui sotto sarà oggetto di due delle tre domande dell'esame per <ins> non frequentanti </ins>.
 
 ### Modulo 1 (Giaccherini)
 
