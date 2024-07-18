@@ -247,8 +247,8 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos√
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
         - Cartwright, Capitolo 11 (Sezioni da 11.2.0 a 11.2.5)
-        - Hagmann, Ho e Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489
         - Chetty, Looney e Kroft (2009), "[Salience and taxation: Theory and evidence](https://doi.org/10.1257/aer.99.4.1145)", *American Economic Review*, vol. 99, n. 4, pp. 1145-1177
+        - Hagmann, Ho e Loewenstein (2019), "[Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0)", *Nature Climate Change*, vol. 9, pp. 484-489
         - Kurz (2018), "[Nudging to reduce meat consumption: Immediate and persistent effects of an intervention at a university restaurant](https://doi.org/10.1016/j.jeem.2018.06.005)", *Journal of Environmental Economics and Management*, vol. 90, pp. 317-341
         - Madrian e Shea (2001), "[The power of suggestion: Inertia in 401(k) participation and savings behavior](https://doi.org/10.1162/003355301753265543)", *Quarterly Journal of Economics*, vol. 116, n. 4, pp. 1149-1187
         - Scheiber (2017) "[How Uber uses psychological tricks to push its drivers' buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html), *New York Times*
