@@ -8,7 +8,9 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 > Leggi con attenzione il [**SYLLABUS**](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Syllabus/Syllabus.md) del corso e assicurati di averne compreso il contenuto!
 
 
-## 📌 Programma preliminare
+## 📌 materiali didattici
+
+### 📆 Programma preliminare
 
 | **Settimana/e**     | **Tema**                                   | **Docente**    | **Materiale**    |
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
@@ -23,7 +25,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 | 12           | Salienza e *nudge*                            | Campigotto        |                        |
 
 
-## 📌 Elaborati sperimentali
+### 📉 Dati per gli elaborati sperimentali
 
 |              | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
