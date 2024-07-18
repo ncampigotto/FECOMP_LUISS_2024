@@ -130,36 +130,19 @@ Per aiutarti a prendere confidenza con Stata, verrà offerto un tutorial in clas
 
 ## 📌 *Policy brief*
 
-Each group must choose a research paper to present. Each presentation must be 10 minutes long and should outline (1) the research questions and objectives of the study, (2) the experimental design, and (3) the results.
+Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica per informare e guidare le politiche pubbliche. Per un esempio, clicca [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
 
-The list of papers available for presentation is given below. Papers are assigned on a first come, first served basis. To be assigned a paper, go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing) and write the name of your group next to the paper you would like to present. Papers not selected by a group will not be presented.
-
-Half of the groups will be randomly selected to present during the sixth week of classes, while the other half will present during the twelfth week. The presentation can be given by a single member of the group, by some members or by all of them, depending on what group members decide among themselves. 
 
 
 > [!IMPORTANT]
-> Knowledge of these papers will **not** be assessed in the written exams.
-
+> Il contenuto degli articoli riportati in questa tabella **non** sarà valutato negli esami finali.
 
 |   | **Articolo**        | 
 |:------|:------------------|
-| 1     | Della Vigna and Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, no. 3, pp. 694-719      |
-| 2     | Sharpe, Staelin and Huber (2008), "[Using extremeness aversion to fight obesity: Policy implications of context dependent demand](https://doi.org/10.1086/587631)", *Journal of Consumer Research*, vol. 35, no. 3, pp. 406-422        |
-| 3     | Levitt, List, Neckermann and Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, no. 4, pp. 183-2019        |
-| 4     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, no. 4, pp. 177-210      |
-| 5     | Bursztyn, Rao, Roth and Yanagizawa-Drott (2023), "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, no. 4, pp. 1832-1864         |
-| 6     | Bertrand, Karlan, Mullainathan, Shafir and Zinman (2010), "[What's advertising content worth? Evidence from a consumer credit marketing field experiment](https://doi.org/10.1162/qjec.2010.125.1.263)", *American Economic Journal: Economic Policy*, vol. 8, no. 3, pp. 203-232         |
-| 7     | Baert, Herregods and Sterkens (2023), "[What does Job applicants' body art signal to employers?](http://dx.doi.org/10.2139/ssrn.4509727)", working paper 
-| 8     | Santos Póvoa, Pech, Camou Viacava and Schwartz (2020), "[Is the beauty premium accessible to all? An experimental analysis](https://doi.org/10.1016/j.joep.2020.102252)", *Journal of Economic Psychology*, vol. 78, no. 102252         |
-| 9     | Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](http://dx.doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, no. 3, pp. 831-870         |
-| 10    | Ariely, Bracha and Meier (2009), "[Doing good or doing well? Image motivation and monetary incentives in behaving prosocially](https://doi.org/https://doi.org/10.1257/aer.99.1.544)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
-| 11     | Dwenger, Kleven, Rasul and Rincke (2016), "[Extrinsic and intrinsic motivations for tax compliance: Evidence from a field experiment in Germany](https://doi.org/https://doi.org/10.1257/pol.20150083)", *American Economic Review*, vol. 99, no. 1, pp. 544-555         |
-| 12     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper         |
-| 13     | Hager, Hensel, Hermie and Roth (2023), "[Political activists as free riders: Evidence from a natural field experiment](https://doi.org/10.1093/ej/uead020)", *Economic Journal*, vol. 133, no. 653, pp. 2068-2084           |
-| 14     | Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482         |        
-| 15     | Alatas, Chandrasekhar, Mobius and Paladines (2023), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, forthcoming           |
-| 16     | Reeck, Posner, Mrkva and Johnson (2023), "[Nudging app adoption: Choice architecture facilitates consumer uptake of mobile apps](https://doi.org/10.1177/00222429221141066)", *Journal of Marketing*, vol. 87, no. 4, pp. 510-527            |
-| 17     | Hausman and Welch (2010), "[Debate: To nudge or not to nudge](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9760.2009.00351.x)", *Journal of Political Philosophy*, vol. 18, no. 1, pp. 123-136
+| 1     | Levitt, List, Neckermann e Sadoff (2016), "[The behavioralist goes to school: Leveraging behavioral economics to improve educational performance](https://doi.org/10.1257/pol.20130358)", *American Economic Journal: Economic Policy*, vol. 8, n. 4, pp. 183-2019        |
+| 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
+| 3     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, vol. 134, n. 659, pp. 913–933           |
+
 
 
 ## 📌 Programma
@@ -179,6 +162,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Cartwright, Capitolo 2
         - Thaler e Sunstein (2008), *Nudge: Improving Decisions About Health, Wealth, and Happiness*, Yale University Press, Capitolo 1
         - °Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206
+        - Santos Póvoa, Pech, Camou Viacava e Schwartz (2020), "[Is the beauty premium accessible to all? An experimental analysis](https://doi.org/10.1016/j.joep.2020.102252)", *Journal of Economic Psychology*, vol. 78, n. 102252
     + *Attività:*
         - ❓ Primo quiz in classe                 
 * `[Settimana 3]` Introduzione all'analisi dei dati con Stata (porta il tuo laptop!)             
@@ -193,6 +177,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
     + *Letture:*
         - Cartwright, Capitolo 4
         - °Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039
+        - Della Vigna e Malmendier (2006), "[Paying not to go to the gym](https://doi.org/10.1257/aer.96.3.694)", *American Economic Review*, vol. 96, n. 3, pp. 694-719
     + *Attività:*
         - ❓ Secondo quiz in classe    
         - 📝 Invio del primo elaborato sperimentale
@@ -227,7 +212,10 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
     + *Letture:*   
         - Cartwright, Capitolo 7 (Sezioni da 7.2.0 a 7.5.3)
         - °Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810  
-        - °Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434  
+        - °Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434
+        - Goldstein, Cialdini and Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482
+        - Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper
+        - 
     + *Attività:*
         - ❓ Quarto quiz in classe
         - 🔬 Quarto esperimento
