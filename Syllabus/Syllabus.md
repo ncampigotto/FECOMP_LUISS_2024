@@ -89,7 +89,7 @@ I quiz in classe, gli elaborati di analisi dei dati e il *policy brief* saranno 
 Il voto finale del corso sarà assegnato su una scala in trentesimi. La lode sarà assegnata solo qualora il punteggio finale superi il 30.
 
 > [!IMPORTANT]
-> Presta attenzione alle seguenti regole:
+> Attenzione alle seguenti regole:
 > 1. Se non partecipi a un quiz in classe, riceverai zero punti per quel quiz.
 > 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. In caso di consegna tardiva non saranno accettate scuse.
 
