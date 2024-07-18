@@ -58,7 +58,7 @@ Questo corso funge da introduzione all'[economia comportamentale](https://news.u
 - quali sono i fattori psicologici che influenzano i processi decisionali;
 - come è possibile far leva su questi fattori per implementare strategie aziendali e politiche pubbliche riguardanti la salute, l'energia, la tassazione e altro ancora.
 
-Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e *bias* che influenzano le decisioni. Il modulo 2 tratta argomenti quali le distorsioni nell'elaborazione di nuove informazioni, l'altruismo, le interazioni strategiche e i *nudge*.
+Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali dell'economia comportamentale e le contrappone alla teoria microeconomica tradizionale. Gli argomenti trattati in questo modulo includono la teoria del prospetto, la *loss aversion* e altre euristiche e *bias* che influenzano le decisioni. Il modulo 2 tratta argomenti quali l'elaborazione di nuove informazioni, i pregiudizi, l'altruismo, le interazioni strategiche e i *nudge*.
 
 In fondo a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
 
