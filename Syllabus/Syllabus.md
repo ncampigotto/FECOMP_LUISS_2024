@@ -242,7 +242,7 @@ Eventuali modifiche a questo programma saranno annunciate durante il corso, cos�
         - Birkeland, Cappelen, Sørensen e Tungodden (2014), "[An experimental study of prosocial motivation among criminals](https://doi.org/10.1007/s10683-013-9380-x)", *Experimental Economics*, vol. 17, pp. 501-511
         - Cappelen, Eichele, Hugdahl, Specht, Sørensen e Tungodden (2014), "[Equity theory and fair inequality: A neuroeconomic study](https://doi.org/10.1073/pnas.1414602111)", *Proceedings of the National Academy of Sciences*, vol. 111, n. 43, pp. 15368-15372
         - DellaVigna, List e Malmendier (2012), "[Testing for altruism and social pressure in charitable giving](https://doi.org/10.1093/qje/qjr050)", *Quarterly Journal of Economics*, vol. 127, n. 1, pp. 1-56
-        - Fabbri e Bigoni (2021), "[How property shapes distributional preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114305)", *IZA Discussion Paper*, n. 14768
+        - Fabbri e Bigoni (2021), "[How property shapes distributional preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114305)", IZA discussion paper, n. 14768
         - Goldstein, Cialdini e Griskevicius (2008), "[A room with a viewpoint: Using norm-based appeals to motivate conservation behaviors in a hotel setting](https://doi.org/10.1086/586910)", *Journal of Consumer Research*, vol. 35, n. 3, pp. 472-482
         - Gneezy e Rustichini (2000), "[A fine is a price](https://doi.org/10.1086/468061)", *Journal of Legal Studies*, vol. 29, n. 1, pp. 1-17
         - Goette e Tripodi (2024), "[The limits of social recognition: Experimental evidence from blood donors](https://doi.org/10.1016/j.jpubeco.2024.105069)", *Journal of Public Economics*, vol. 231, n. 105069
