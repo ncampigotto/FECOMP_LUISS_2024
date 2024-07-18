@@ -138,8 +138,7 @@ Parte delle lezioni consisterà nel partecipare a degli esperimenti economici sv
 
 L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È tua responsabilità assicurarti che il software sia correttamente installato sul tuo computer. 
 
-Per aiutarti a prendere confidenza con Stata, verrà offerto un tutorial in classe.
-
+Per aiutarti a prendere confidenza con Stata, verrà organizzato un apposito tutorial in classe.
 
 ## 📌 *Policy brief*
 
