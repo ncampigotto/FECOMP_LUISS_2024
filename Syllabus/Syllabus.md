@@ -32,16 +32,16 @@ Credenziali LUISS necessarie per l'accesso.
 
 ## 📌 Orario delle lezioni
 
-Tutte le lezioni si terranno nella sede di Viale Romania.
+Tutte le lezioni si terranno nella sede di Viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) saranno erogate in plenaria o in due gruppi distinti a settimane alterne. Per più dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta regolamente l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss).
 
 - Canale A
-    + Tuesday, 10.00-12.00 (Room A209, viale Romania)   
-    + Tuesday, 10.00-12.00 (Room A209, viale Romania)    
-      oppure blabla  
+    + Lunedì, 11.30-13.00 (aula A307)
+      oppure Lunedì, 11.30-13.00 (gruppo 1, aula A307) e 14.00-15.30 (gruppo 2, aula A104)   
+    + Venerdì, 13.45-15.15 (aula A204)  
 - Canale B
-    + Tuesday, 10.00-12.00 (Room A209, viale Romania)   
-    + Tuesday, 10.00-12.00 (Room A209, viale Romania)    
-      oppure blabla    
+    + Lunedì, 17.15-18.45 (aula A209)   
+    + Giovedì, 14.45-16.15 (aula A204)    
+      oppure Giovedì, 14.45-16.15 (gruppo 1, aula A204) e 16.30-18.00 (gruppo 2, aula A307)        
 
 > [!IMPORTANT]
 > La frequenza è obbligatoria e sarà oggetto di valutazione. Le lezioni non saranno registrate.
