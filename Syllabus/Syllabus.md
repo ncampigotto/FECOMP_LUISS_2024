@@ -140,9 +140,6 @@ All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno
 | 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
 | 3     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, vol. 134, n. 659, pp. 913–933           |
 
-> [!IMPORTANT]
-> Il contenuto degli articoli riportati nella tabella **non** sarà valutato negli esami finali.
-
 Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato sarà valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
 Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle e grafici presi dall'articolo o creati *ex novo* dal gruppo. Il testo va organizzato utilizzando le seguenti sezioni.
@@ -151,6 +148,11 @@ Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle
 - Metodi: in cosa consiste l'intervento? Qual è il campione considerato? 
 - Risultati: descrizione dei principali risultati dell'intervento
 - Raccomandazioni di policy: qual è la rilevanza dello studio per il disegno di nuove politiche pubbliche?
+
+> [!IMPORTANT]
+> - Gli elaborati andranno caricati sulla pagina del corso entro e non oltre le <ins> 23.59 di venerdì 29 novembre 2024</ins>.
+> - Il contenuto degli articoli riportati nella tabella qui sopra <ins>non</ins> sarà valutato negli esami finali.
+
 
 
 
