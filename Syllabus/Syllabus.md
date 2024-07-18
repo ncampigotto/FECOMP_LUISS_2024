@@ -32,7 +32,7 @@ Per eseguire l'accesso sono necessarie le credenziali LUISS.
 
 ## 📌 Orario delle lezioni
 
-Tutte le lezioni si tengono nella sede di viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) sono erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consulta l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
+Tutte le lezioni si tengono nella sede di viale Romania. Le lezioni del lunedì (Canale A) e del giovedì (Canale B) sono erogate in plenaria o in due gruppi distinti a settimane alterne. Per ulteriori dettagli e informazioni riguardanti eventuali variazioni d'orario, consultare l'[agenda web](https://pianificazionespazi.luiss.it/PortaleStudentiLuiss) di ateneo.
 
 - Canale A
     + Lunedì, 11.30-13.00 (aula A307)    
@@ -72,7 +72,7 @@ Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Beh
 
 Il voto finale del corso è assegnato in trentesimi. La lode viene assegnata solo qualora il punteggio complessivo superi il 30. 
 
-Per informazioni dettagliate sul regolamento di ateneo in materia di esami, consulta il vademecum che trovi a [QUESTO](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf) link.
+Per informazioni dettagliate sul regolamento di ateneo in materia di esami, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf).
 
 
 ### ▶️ Studenti frequentanti
@@ -88,8 +88,8 @@ Per informazioni dettagliate sul regolamento di ateneo in materia di esami, cons
 La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in gruppi, la cui composizione è comunicata all'inizio del corso.
 
 > [!IMPORTANT]
-> Fai attenzione alle seguenti regole:
-> 1. Se non partecipi a un quiz in classe, riceverai zero punti per quel quiz.
+> Attenzione alle seguenti regole:
+> 1. Chi non partecipa a un quiz in classe riceverà zero punti per quel quiz.
 > 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non sono accettate scuse per le consegne tardive.
 > 3. Il punteggio relativo a frequenza e partecipazione è assegnato come segue: 2 punti per chi partecipa a oltre l'80% delle lezioni; 1 punto per chi partecipa a una percentuale di lezioni compresa tra il 50% e l'80%; 0 punti per chi partecipa a meno del 50% delle lezioni. Il terzo punto è assegnato a discrezione dei docenti sulla base della partecipazione in classe.
 
@@ -106,7 +106,7 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 
 - L'esame finale per gli studenti <ins>non frequentanti</ins> consiste di tre domande a risposta aperta tratte da entrambi i moduli. Due domande sono basate sul manuale, mentre la terza domanda è basata sulle altre letture obbligatorie. 
 
-Durante gli esami non potrai consultare manuale e appunti. 
+Durante gli esami non sarà possibile consultare manuale e appunti. 
 
 
 ## 📌 Quiz in classe
@@ -124,9 +124,9 @@ Il corso prevede 5 quiz in itinere svolti in classe, ciascuno della durata di 20
 
 Ogni quiz consiste di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta vale 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz).
 
-I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti vengono assegnati zero punti.
+I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti verranno assegnati zero punti.
 
-Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi, arrotondata al numero intero più vicino.
+Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi ottenuti dal gruppo, arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
 > Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
@@ -134,16 +134,16 @@ Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi, a
 
 ## 📌 Elaborati di analisi dei dati
 
-Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a delle domande.
+Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a una serie di domande.
 
-L'analisi dei dati è effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È tua responsabilità assicurarti che il software sia correttamente installato sul tuo computer. 
+L'analisi dei dati è effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È responsabilità degli studenti assicurarsi che il software sia correttamente installato sul proprio computer. 
 
 
 ## 📌 *Policy brief*
 
 Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica in modo da informare e guidare le politiche pubbliche. Per un esempio, clicca [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
 
-All'inizio del corso, tu e gli altri membri del tuo gruppo dovete scegliere uno degli articoli proposti nella tabella qui sotto, coordinandovi con gli altri gruppi in modo tale che nessun articolo venga scelto da più di tre gruppi. Le scelte vanno riportate [QUI](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing).
+All'inizio del corso, ciascun gruppo deve scegliere uno degli articoli proposti nella tabella qui sotto, coordinandosi con gli altri gruppi in modo tale che nessun articolo venga scelto da più di tre gruppi. Le scelte vanno riportate [QUI](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing).
 
 |   | **Articolo**        | 
 |:------|:------------------|
@@ -163,7 +163,7 @@ Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle
 - Raccomandazioni di policy: qual è la rilevanza dello studio per il disegno di nuove politiche pubbliche?
 
 > [!IMPORTANT]
-> - Gli elaborati vanno caricati sulla pagina del corso entro e non oltre le <ins> 23.59 di venerdì 29 novembre 2024</ins>.
+> - Gli elaborati vanno caricati sulla pagina del corso entro e non oltre le <ins>23.59 di venerdì 29 novembre 2024</ins>.
 > - Il contenuto degli articoli riportati nella tabella qui sopra <ins>non</ins> sarà valutato negli esami finali.
 
 
@@ -172,7 +172,7 @@ Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle
 Eventuali modifiche a questo programma saranno annunciate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
 
 > [!IMPORTANT]
-> Il contenuto dei capitoli del manuale elencati qui sotto sarà oggetto di due delle tre domande dell'esame per <ins> non frequentanti </ins>.
+> Il contenuto dei capitoli del manuale elencati qui sotto sarà oggetto di due delle tre domande dell'esame per <ins>non frequentanti</ins>.
 
 ### Modulo 1 (Giaccherini)
 
