@@ -63,10 +63,9 @@ Il corso si compone di due moduli. Il modulo 1 introduce le basi concettuali del
 In fondo a questa pagina è riportato il programma dettagliato del corso. Le lezioni combineranno teoria ed evidenza empirica.
 
 
-## 📌 Letture
+## 📌 Manuale
 
-+  Manuale: Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), terza edizione, Routledge
-+  Articoli scientifici e altri materiali forniti durante il corso
+Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Behavioral-Economics/Cartwright/p/book/9781138097124), terza edizione, Routledge
 
 
 ## 📌 Modalità di valutazione
