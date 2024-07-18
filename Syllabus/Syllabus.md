@@ -155,7 +155,7 @@ All'inizio del corso, tu e gli altri membri del tuo gruppo dovete scegliere uno 
 
 Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato è valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
-Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle e grafici presi dall'articolo o creati *ex novo* dal gruppo. Il testo va organizzato utilizzando le seguenti sezioni.
+Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle e grafici presi dall'articolo o creati *ex novo* dal gruppo. Il testo va organizzato utilizzando le seguenti sezioni.
 - Obiettivo dell'intervento di policy (2-3 frasi)
 - *Background*: perché l'intervento ci interessa? Qual è il contesto in cui è stato implementato? Quali euristiche o *bias* vengono considerati?
 - Metodi: in cosa consiste l'intervento? Qual è il campione considerato? 
