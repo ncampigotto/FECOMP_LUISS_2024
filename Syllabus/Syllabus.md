@@ -122,14 +122,14 @@ Durante il corso prenderai parte a cinque quiz svolti in classe, ciascuno della 
 | 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
 | 5     | Blumenstock, Callen e Ghani (2018), "[Why do defaults affect behavior? Experimental evidence from Afghanistan](https://doi.org/10.1257/aer.20171676)", *American Economic Review*, vol. 108, n. 10, pp. 2868-2901 |
 
-Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta varrà 0,2 punti (quindi il punteggio massimo possibile è di 1 punto per quiz).
+Ogni quiz consisterà di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta varrà 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz).
 
-I quiz verranno svolti in autonomia ma saranno valutati a gruppi: il punteggio assegnato a ciascun gruppo per ogni quiz sarà dato dalla media dei punteggi ottenuti dai membri del gruppo in quel quiz. Agli studenti assenti verranno assegnati zero punti.
+I quiz verranno svolti in autonomia ma saranno valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz sarà dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti verranno assegnati zero punti.
 
-Il punteggio totale dei quiz in classe sarà dato dalla somma di tutti e cinque i punteggi. Dopo aver sommato i punteggi, i decimali saranno arrotondati al numero intero più vicino.
+Il punteggio totale dei quiz sarà dato dalla somma di tutti e cinque i punteggi arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
-> Le letture riportate nella tabella sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
+> Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
 
 
 ## 📌 Elaborati di analisi dei dati
