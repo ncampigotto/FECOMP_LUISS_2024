@@ -130,12 +130,9 @@ Per aiutarti a prendere confidenza con Stata, verrà offerto un tutorial in clas
 
 ## 📌 *Policy brief*
 
-Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica per informare e guidare le politiche pubbliche. Per un esempio, clicca [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
+Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica in modo da informare e guidare le politiche pubbliche. Per un esempio, clicca [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
 
-
-
-> [!IMPORTANT]
-> Il contenuto degli articoli riportati in questa tabella **non** sarà valutato negli esami finali.
+All'inizio del corso, tu e gli altri membri del tuo gruppo dovrete scegliere uno degli articoli proposti nella tabella qui sotto, coordinandovi con gli altri gruppi in modo tale che nessun articolo venga scelto da più di tre gruppi. Le scelte vanno riportate [QUI](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing).
 
 |   | **Articolo**        | 
 |:------|:------------------|
@@ -143,9 +140,22 @@ Un *policy brief* è un documento che sintetizza i risultati e le implicazioni d
 | 2     |  Homonoff (2018), "[Can small incentives have large effects? The impact of taxes versus bonuses on disposable bag use](https://doi.org/10.1257/pol.20150261)", *American Economic Journal: Economic Policy*, vol. 10, n. 4, pp. 177-210      |
 | 3     | Alatas, Chandrasekhar, Mobius e Paladines (2024), "[Do celebrity endorsements matter? A Twitter experiment promoting vaccination in Indonesia](https://economics.mit.edu/sites/default/files/2023-05/Indonesia_Twitter_Paper.pdf)", *Economic Journal*, vol. 134, n. 659, pp. 913–933           |
 
+> [!IMPORTANT]
+> Il contenuto degli articoli riportati nella tabella **non** sarà valutato negli esami finali.
+
+Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato sarà valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
+
+Il documento non deve superare le 4 pagine di lunghezza e può contenere tabelle e grafici presi dall'articolo o creati *ex novo* dal gruppo. Il testo va organizzato utilizzando le seguenti sezioni.
+- Obiettivo dell'intervento di policy (2-3 frasi)
+- *Background*: perché l'intervento ci interessa? Qual è il contesto in cui è stato implementato? Quali euristiche o *bias* vengono considerati?
+- Metodi: in cosa consiste l'intervento? Qual è il campione considerato? 
+- Risultati: descrizione dei principali risultati dell'intervento
+- Raccomandazioni di policy: qual è la rilevanza dello studio per il disegno di nuove politiche pubbliche?
 
 
-## 📌 Programma
+
+
+## 📌 Programma dettagliato
 
 Eventuali modifiche a questo programma saranno annunciate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
 
