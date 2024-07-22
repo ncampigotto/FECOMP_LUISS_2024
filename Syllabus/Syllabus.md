@@ -44,7 +44,7 @@ Tutte le lezioni si tengono nella sede di viale Romania. Le lezioni del lunedì 
       <ins>oppure</ins> Giovedì, 14.45-16.15 (gruppo 1, aula A204) e 16.30-18.00 (gruppo 2, aula A307)        
 
 > [!IMPORTANT]
-> La frequenza è obbligatoria ed è oggetto di valutazione. Le lezioni non sono registrate.
+> La frequenza è obbligatoria ed è oggetto di valutazione. Le lezioni non vengono registrate.
 
 
 ## 📌 Prerequisiti
@@ -70,9 +70,8 @@ Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Beh
 
 ## 📌 Modalità di valutazione
 
-Il voto finale del corso è assegnato in trentesimi. La lode viene assegnata solo qualora il punteggio complessivo superi il 30. 
 
-Per informazioni dettagliate sul regolamento di ateneo in materia di esami, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf).
+Per informazioni sul regolamento di ateneo in materia di esami, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf).
 
 
 ### ▶️ Studenti frequentanti
@@ -85,13 +84,14 @@ Per informazioni dettagliate sul regolamento di ateneo in materia di esami, cons
 | *Policy brief* | Fino a 4 punti |
 | Esame finale | Fino a 10 punti |
 
-La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in gruppi, la cui composizione è comunicata all'inizio del corso.
+La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in gruppi, la cui composizione è comunicata all'inizio del corso. Il voto finale è assegnato in trentesimi e la lode viene assegnata solo qualora il punteggio complessivo superi il 30. 
+
 
 > [!IMPORTANT]
 > Attenzione alle seguenti regole:
-> 1. Chi non partecipa a un quiz in classe riceverà zero punti per quel quiz.
+> 1. Chi non partecipa a un quiz in classe riceve zero punti per quel quiz.
 > 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non sono accettate scuse per le consegne tardive.
-> 3. Il punteggio relativo a frequenza e partecipazione è assegnato come segue: 2 punti per chi partecipa a oltre l'80% delle lezioni; 1 punto per chi partecipa a una percentuale di lezioni compresa tra il 50% e l'80%; 0 punti per chi partecipa a meno del 50% delle lezioni. Il terzo punto è assegnato a discrezione dei docenti sulla base della partecipazione in classe.
+> 3. Il punteggio relativo a frequenza e partecipazione è assegnato come segue: 2 punti per chi partecipa a oltre l'80% delle lezioni; 1 punto per chi partecipa a una percentuale di lezioni compresa tra il 50% e l'80%; 0 punti per chi partecipa a meno del 50% delle lezioni. Il terzo punto è assegnato dai docenti sulla base della partecipazione in classe.
 
 ### ▶️ Studenti non frequentanti
 
@@ -124,17 +124,17 @@ Il corso prevede 5 quiz in itinere svolti in classe, ciascuno della durata di 20
 
 Ogni quiz consiste di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta vale 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz).
 
-I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti verranno assegnati zero punti.
+I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti sono assegnati zero punti.
 
 Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi ottenuti dal gruppo, arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
-> Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e saranno oggetto di una delle tre domande dell'esame.
+> Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e sono oggetto di una delle tre domande dell'esame.
 
 
 ## 📌 Elaborati di analisi dei dati
 
-Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a una serie di domande. Dati, domande e scadenze saranno pubblicati a tempo debito sulla [pagina principale](https://github.com/ncampigotto/FECOMP_LUISS_2024) del corso.
+Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a una serie di domande.
 
 L'analisi dei dati va effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È responsabilità degli studenti assicurarsi che il software sia correttamente installato sul proprio computer. 
 
@@ -156,10 +156,10 @@ All'inizio del corso, ciascun gruppo deve scegliere uno degli articoli proposti 
 Alcuni articoli discutono più di un risultato: la scelta di quanti e quali risultati riportare nel *policy brief* è a discrezione del gruppo. L'elaborato è valutato anche sulla base della capacità di identificare e descrivere accuratamente i risultati più importanti.
 
 Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle e grafici presi dall'articolo o creati *ex novo* dal gruppo. Il testo va organizzato utilizzando le seguenti sezioni.
-- Obiettivo dell'intervento di policy (2-3 frasi)
+- Obiettivo dell'intervento di policy (2-3 frasi).
 - *Background*: perché l'intervento ci interessa? Qual è il contesto in cui è stato implementato? Quali euristiche o *bias* vengono considerati?
 - Metodi: in cosa consiste l'intervento? Qual è il campione considerato? 
-- Risultati: descrizione dei principali risultati dell'intervento
+- Risultati: descrizione dei principali risultati dell'intervento.
 - Raccomandazioni di policy: qual è la rilevanza dello studio per il disegno di nuove politiche pubbliche?
 
 > [!IMPORTANT]
@@ -172,7 +172,7 @@ Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle
 Eventuali modifiche a questo programma saranno annunciate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
 
 > [!IMPORTANT]
-> Il contenuto dei capitoli del manuale elencati qui sotto sarà oggetto di due delle tre domande dell'esame per <ins>non frequentanti</ins>.
+> I capitoli del manuale elencati qui sotto sono oggetto di due delle tre domande dell'esame per <ins>non frequentanti</ins>.
 
 ### Modulo 1 (Giaccherini)
 
