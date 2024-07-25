@@ -81,7 +81,7 @@ Per informazioni sul regolamento di ateneo in materia di esami, consultare l'app
 | Presenza e partecipazione in classe | Fino a 3 punti |
 | Quiz in classe (x5) |   Fino a 5 punti (fino a un punto per quiz) |
 | Elaborati di analisi di dati sperimentali (x3) | Fino a 9 punti (fino a 3 punti per elaborato) |
-| *Policy brief* | Fino a 4 punti |
+| *Policy brief* | Fino a 5 punti |
 | Esame finale | Fino a 10 punti |
 
 La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in gruppi, la cui composizione è comunicata all'inizio del corso. Il voto finale è assegnato in trentesimi e la lode viene assegnata solo qualora il punteggio complessivo superi il 30. 
@@ -163,7 +163,7 @@ Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle
 - Raccomandazioni di policy: qual è la rilevanza dello studio per il disegno di nuove politiche pubbliche?
 
 > [!IMPORTANT]
-> - Gli elaborati vanno caricati sulla pagina del corso entro e non oltre le <ins>23.59 di venerdì 29 novembre 2024</ins>.
+> - Gli elaborati vanno caricati sulla pagina del corso entro e non oltre le <ins>23.59 di venerdì 22 novembre 2024</ins>.
 > - Il contenuto degli articoli riportati nella tabella qui sopra <ins>non</ins> è oggetto di valutazione nell'esame finale.
 
 
@@ -243,7 +243,8 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Goette e Tripodi (2024), "[The limits of social recognition: Experimental evidence from blood donors](https://doi.org/10.1016/j.jpubeco.2024.105069)", *Journal of Public Economics*, vol. 231, n. 105069
     + *Attività:*
         - ❓ Quarto quiz in classe
-        - 🔬 Quarto esperimento in classe    
+        - 🔬 Quarto esperimento in classe
+        - 📝 Consegna del *policy brief*
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
         - Cartwright, Capitolo 11 (Sezioni da 11.2.0 a 11.2.5)
@@ -254,4 +255,4 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Scheiber (2017) "[How Uber uses psychological tricks to push its drivers' buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html), *New York Times*
     + *Attività:*  
         - ❓ Quinto quiz in classe
-        - 📝 Consegna del terzo elaborato sperimentale e del *policy brief*
+        - 📝 Consegna del terzo elaborato sperimentale
