@@ -164,7 +164,7 @@ Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle
 
 > [!IMPORTANT]
 > - Gli elaborati vanno caricati sulla pagina del corso entro e non oltre le <ins>23.59 di venerdì 29 novembre 2024</ins>.
-> - Il contenuto degli articoli riportati nella tabella qui sopra <ins>non</ins> sarà valutato negli esami finali.
+> - Il contenuto degli articoli riportati nella tabella qui sopra <ins>non</ins> è oggetto di valutazione nell'esame finale.
 
 
 ## 📌 Programma dettagliato
