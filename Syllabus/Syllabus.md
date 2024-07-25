@@ -90,7 +90,7 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 > [!IMPORTANT]
 > Attenzione alle seguenti regole:
 > 1. Chi non partecipa a un quiz in classe riceve zero punti per quel quiz.
-> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo saranno valutati con zero punti. Non sono accettate scuse per le consegne tardive.
+> 2. Gli elaborati di gruppo devono essere consegnati entro la data di scadenza prevista. Elaborati non consegnati o consegnati in ritardo sono valutati con zero punti. Non sono accettate scuse per le consegne tardive.
 > 3. Il punteggio relativo a frequenza e partecipazione è assegnato come segue: 2 punti per chi partecipa a oltre l'80% delle lezioni; 1 punto per chi partecipa a una percentuale di lezioni compresa tra il 50% e l'80%; 0 punti per chi partecipa a meno del 50% delle lezioni. Il terzo punto è assegnato dai docenti sulla base della partecipazione in classe.
 
 ### ▶️ Studenti non frequentanti
@@ -106,7 +106,7 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 
 - L'esame finale per gli studenti <ins>non frequentanti</ins> consiste di tre domande a risposta aperta tratte da entrambi i moduli. Due domande sono basate sul manuale, mentre la terza domanda è basata sulle altre letture obbligatorie. 
 
-Durante gli esami non sarà possibile consultare manuale e appunti. 
+Durante gli esami non è possibile consultare manuale e appunti. 
 
 
 ## 📌 Quiz in classe
@@ -129,19 +129,19 @@ I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ci
 Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi ottenuti dal gruppo, arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
-> Le letture riportate nella tabella qui sopra sono obbligatorie anche per gli studenti non frequentanti e sono oggetto di una delle tre domande dell'esame.
+> Le letture riportate nella tabella qui sopra sono <ins>obbligatorie</ins> anche per gli studenti <ins>non frequentanti</ins> e sono oggetto di una delle tre domande dell'esame.
 
 
 ## 📌 Elaborati di analisi dei dati
 
 Parte delle lezioni prevede la partecipazione a degli esperimenti. Ciascun gruppo ha poi il compito di analizzare i dati sperimentali e redigere tre brevi elaborati per rispondere a una serie di domande.
 
-L'analisi dei dati va effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È responsabilità degli studenti assicurarsi che il software sia correttamente installato sul proprio computer. 
+L'analisi dei dati è effettuata utilizzando [Stata](https://www.stata.com). L'Università fornisce una licenza gratuita di Stata a tutti gli studenti. È responsabilità degli studenti assicurarsi che il software sia correttamente installato sul proprio computer. 
 
 
 ## 📌 *Policy brief*
 
-Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica in modo da informare e guidare le politiche pubbliche. Per un esempio, clicca [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
+Un *policy brief* è un documento che sintetizza i risultati e le implicazioni di una o più ricerche scientifiche per i decisori politici. Traducendo il linguaggio tecnico in termini comprensibili, rende accessibile l'evidenza empirica in modo da informare e guidare le politiche pubbliche. Per un esempio, cliccare [QUI](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/PolicyBrief_Impact_Study_Vivamos_Mejor.pdf).
 
 All'inizio del corso, ciascun gruppo deve scegliere uno degli articoli proposti nella tabella qui sotto, coordinandosi con gli altri gruppi in modo tale che nessun articolo venga scelto da più di tre gruppi. Le scelte vanno riportate [QUI](https://docs.google.com/spreadsheets/d/1nXle0We9WTz8DmncqyGHKRNjiqqXuXZ9uBjFY-FqQ_o/edit?usp=sharing).
 
@@ -169,7 +169,7 @@ Il documento non deve superare le 3 pagine di lunghezza e può contenere tabelle
 
 ## 📌 Programma dettagliato
 
-Eventuali modifiche a questo programma saranno annunciate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
+Eventuali modifiche a questo programma sono comunicate durante il corso, così come la data e l'ora esatte degli esperimenti e dei quiz in classe.
 
 > [!IMPORTANT]
 > I capitoli del manuale elencati qui sotto sono oggetto di due delle tre domande dell'esame per <ins>non frequentanti</ins>.
