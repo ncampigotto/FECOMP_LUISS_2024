@@ -122,11 +122,9 @@ Il corso prevede 5 quiz in itinere svolti in classe, ciascuno della durata di 20
 | 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
 | 5     | Blumenstock, Callen e Ghani (2018), "[Why do defaults affect behavior? Experimental evidence from Afghanistan](https://doi.org/10.1257/aer.20171676)", *American Economic Review*, vol. 108, n. 10, pp. 2868-2901 |
 
-Ogni quiz consiste di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta vale 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz).
+I quiz sono svolti in autonomia. Ogni quiz consiste di 5 domande a scelta multipla o vero/falso. Non sono previste penalità per le risposte sbagliate e ogni risposta corretta vale 0,2 punti (quindi il punteggio massimo è di 1 punto per quiz). Agli studenti assenti sono assegnati zero punti.
 
-I quiz vengono svolti in autonomia ma sono valutati a gruppi: il punteggio di ciascun gruppo per ogni quiz è dato dalla media dei punteggi ottenuti dai singoli membri del gruppo. Agli studenti assenti sono assegnati zero punti.
-
-Il punteggio totale dei quiz è dato dalla somma di tutti e cinque i punteggi ottenuti dal gruppo, arrotondata al numero intero più vicino.
+Il punteggio totale è dato dalla somma dei punteggi di tutti e cinque i quiz, arrotondata al numero intero più vicino.
 
 > [!IMPORTANT]
 > Le letture riportate nella tabella qui sopra sono <ins>obbligatorie</ins> anche per gli studenti <ins>non frequentanti</ins> e sono oggetto di una delle tre domande dell'esame.
