@@ -71,7 +71,7 @@ Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Beh
 ## 📌 Modalità di valutazione
 
 
-Per informazioni sul regolamento di ateneo in materia di esami, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/FEB_Handbook_2023-24_ITA.pdf).
+Per informazioni sul regolamento di ateneo in materia di esami, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/Luiss_FEB_Handbook_7030_ITA.pdf).
 
 
 ### ▶️ Studenti frequentanti
