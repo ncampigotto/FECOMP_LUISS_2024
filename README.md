@@ -29,7 +29,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 
 | Elaborato    | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
-| 1 | TBD | |
-| 2 | TBD | |
-| 3 | TBD | |
+| 1 | 18 ottobre 2024 | |
+| 2 | 8 novembre 2024 | |
+| 3 | 29 novembre 2024 | |
 
