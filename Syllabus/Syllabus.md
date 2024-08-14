@@ -223,7 +223,6 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
         - Levitt e List (2007), "[What do laboratory experiments measuring social preferences reveal about the real world?](https://doi.org/10.1257/jep.21.2.153)", *Journal of Economic Perspectives*, vol. 21, n. 2, pp. 153-174
     + *Attività:*  
-        - ❓ Terzo quiz in classe
         - 🔬 Terzo esperimento in classe    
         - 📝 Consegna del secondo elaborato sperimentale
 * `[Settimane 10 e 11]` Preferenze e confronti sociali  
@@ -240,7 +239,7 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Gneezy e Rustichini (2000), "[A fine is a price](https://doi.org/10.1086/468061)", *Journal of Legal Studies*, vol. 29, n. 1, pp. 1-17
         - Goette e Tripodi (2024), "[The limits of social recognition: Experimental evidence from blood donors](https://doi.org/10.1016/j.jpubeco.2024.105069)", *Journal of Public Economics*, vol. 231, n. 105069
     + *Attività:*
-        - ❓ Quarto quiz in classe
+        - ❓ Terzo e quarto quiz in classe
         - 🔬 Quarto esperimento in classe
         - 📝 Consegna del *policy brief*
 * `[Settimana 12]` Salienza e *nudge*  
