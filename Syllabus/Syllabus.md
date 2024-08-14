@@ -117,7 +117,7 @@ Il corso prevede 5 quiz in itinere svolti in classe, ciascuno della durata di 20
 |:------|:------------------|
 | 1     | Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206 |
 | 2     | Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039 |
-| 3     | Balafoutas, Nikiforakis e Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, n. 45, pp. 15924-15927   |
+| 3     | Mislavsky e Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68, n. 1, pp. 541-563   |
 | 4     | Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810 |
 | 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
 | 5     | Blumenstock, Callen e Ghani (2018), "[Why do defaults affect behavior? Experimental evidence from Afghanistan](https://doi.org/10.1257/aer.20171676)", *American Economic Review*, vol. 108, n. 10, pp. 2868-2901 |
@@ -211,13 +211,14 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Graeber, Roth e Zimmermann (2024), "[Stories, statistics, and memory](https://raw.githubusercontent.com/cproth/papers/master/SSM_May2024.pdf)", *Quarterly Journal of Economics*, di prossima pubblicazione
         - Leib, Köbis, Rilke, Hagens e Irlenbusch (2024), "[Corrupted by algorithms? How AI-generated and human-written advice shape (dis)honesty](https://doi.org/10.1093/ej/uead056)", *Economic Journal*, vol. 134, n. 658, pp. 766-784
         - Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](https://doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, n. 3, pp. 831-870
-        - Mislavsky e Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68, n. 1, pp. 541-563
         - Schwardmann, Tripodi e van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372)",  *American Economic Review*, vol. 112, n. 4, pp. 1118-1146
-    + *Attività:*  
+    + *Attività:*
+        - ❓ Terzo quiz in classe
         - 🔬 Secondo esperimento in classe    
 * `[Settimana 9]` Interazioni sociali  
     + *Letture:*  
         - Cartwright, Capitolo 7 (Sezioni da 7.1.0 a 7.1.5) e 11 (Sezione 11.1.1)
+        - Balafoutas, Nikiforakis e Rockenbach (2014), "[Direct and indirect punishment among strangers in the field](https://doi.org/10.1073/pnas.1413170111)", *Proceedings of the National Academy of Sciences*, vol. 111, n. 45, pp. 15924-15927
         - Ehret, Constantino, Weber, Efferson e Vogt (2022), "[Group identities can undermine social tipping after intervention](https://doi.org/10.1038/s41562-022-01440-5)", *Nature Human Behavior*, vol. 6, pp. 1669-1679
         - Fehr e Leibbrandt (2011), "[A field study on cooperativeness and impatience in the tragedy of the commons](https://doi.org/10.1016/j.jpubeco.2011.05.013)", *Journal of Public Economics*, vol. 95, n. 9-10, pp. 1144-1155
         - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
@@ -239,7 +240,7 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Gneezy e Rustichini (2000), "[A fine is a price](https://doi.org/10.1086/468061)", *Journal of Legal Studies*, vol. 29, n. 1, pp. 1-17
         - Goette e Tripodi (2024), "[The limits of social recognition: Experimental evidence from blood donors](https://doi.org/10.1016/j.jpubeco.2024.105069)", *Journal of Public Economics*, vol. 231, n. 105069
     + *Attività:*
-        - ❓ Terzo e quarto quiz in classe
+        - ❓ Quarto quiz in classe
         - 🔬 Quarto esperimento in classe
         - 📝 Consegna del *policy brief*
 * `[Settimana 12]` Salienza e *nudge*  
