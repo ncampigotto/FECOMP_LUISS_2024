@@ -14,8 +14,8 @@ Ricevimento: su appuntamento
 ## 📌 Assistenti alla didattica
 
 Maria Paola Pagliarulo (Canale A)   
-Email:     
-Ricevimento: su appuntamento
+Email: mpagliarulo *chiocciola* luiss *punto* it     
+Ricevimento: martedì dalle 15 alle 18 su Webex, previo appuntamento
 
 Emma Manneschi (Canale B)   
 Email:      
