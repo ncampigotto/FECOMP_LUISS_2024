@@ -82,7 +82,7 @@ Per informazioni sul regolamento di ateneo in materia di esami per studenti freq
 | Quiz in classe (x5) |   Fino a 5 punti (fino a un punto per quiz) |
 | Elaborati di analisi di dati sperimentali (x3) | Fino a 9 punti (fino a 3 punti per elaborato) |
 | *Policy brief* | Fino a 5 punti |
-| Esame finale | Fino a 10 punti |
+| Esame scritto finale | Fino a 10 punti |
 
 La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in gruppi, la cui composizione è comunicata all'inizio del corso. Il voto finale è assegnato in trentesimi e la lode viene assegnata solo qualora il punteggio complessivo superi il 30. 
 
@@ -102,7 +102,7 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 
 ### ▶️ Rifiuto del voto
 
-Gli studenti frequentanti che rifiutano il proprio voto saranno poi considerati automaticamente non frequentanti per le sessioni d'esame successive.
+Gli studenti frequentanti che rifiutano il proprio voto (sia esso il voto complessivo del corso o il voto conseguito nell'esame scritto finale) saranno poi considerati automaticamente non frequentanti per le sessioni d'esame successive.
 
 
 ## 📌 Struttura degli esami
