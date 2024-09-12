@@ -19,7 +19,7 @@ Ricevimento: martedì dalle 15 alle 18 su Webex, previo appuntamento
 
 Emma Manneschi (Canale B)   
 Email:      
-Ricevimento: su appuntamento
+Ricevimento:
 
 
 ## 📌 Pagine del corso 
@@ -71,7 +71,7 @@ Edward Cartwright (2018), [*Behavioral Economics*](https://www.routledge.com/Beh
 ## 📌 Modalità di valutazione
 
 
-Per informazioni sul regolamento di ateneo in materia di esami, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/Luiss_FEB_Handbook_7030_ITA.pdf).
+Per informazioni sul regolamento di ateneo in materia di esami per studenti frequentanti e non frequentanti, consultare l'appossito [vademecum](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Altro/Luiss_FEB_Handbook_7030_ITA.pdf).
 
 
 ### ▶️ Studenti frequentanti
@@ -98,6 +98,11 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 | Prova | Punteggio | 
 |:----------------------------------------------------------|:----------------------------------------------|
 | Esame finale | Fino a 32 punti |
+
+
+### Rifiuto del voto
+
+Gli studenti frequentanti che rifiutano il proprio voto saranno poi considerati automaticamente non frequentanti per le sessioni d'esame successive.
 
 
 ## 📌 Struttura degli esami
