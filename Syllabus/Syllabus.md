@@ -100,7 +100,7 @@ La stesura degli elaborati di analisi dei dati e del *policy brief* avviene in g
 | Esame finale | Fino a 32 punti |
 
 
-### Rifiuto del voto
+### ▶️ Rifiuto del voto
 
 Gli studenti frequentanti che rifiutano il proprio voto saranno poi considerati automaticamente non frequentanti per le sessioni d'esame successive.
 
