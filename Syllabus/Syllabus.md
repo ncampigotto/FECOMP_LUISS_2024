@@ -18,8 +18,8 @@ Email: mpagliarulo *chiocciola* luiss *punto* it
 Ricevimento: martedì dalle 15 alle 18 su Webex, previo appuntamento
 
 Emma Manneschi (Canale B)   
-Email:      
-Ricevimento:
+Email: emanneschi *chiocciola* luiss *punto* it     
+Ricevimento: martedì dalle 15 alle 18 su Webex, previo appuntamento
 
 
 ## 📌 Pagine del corso 
