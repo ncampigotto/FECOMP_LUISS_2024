@@ -214,7 +214,6 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Cartwright, Capitolo 5 (Sezioni 5.1.0, 5.2.0, 5.2.1 e 5.2.3)
         - Bursztyn, Rao, Roth e Yanagizawa-Drott (2023), "[Opinions as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90, n. 4, pp. 1832-1864
         - Graeber, Roth e Zimmermann (2024), "[Stories, statistics, and memory](https://raw.githubusercontent.com/cproth/papers/master/SSM_May2024.pdf)", *Quarterly Journal of Economics*, di prossima pubblicazione
-        - Leib, Köbis, Rilke, Hagens e Irlenbusch (2024), "[Corrupted by algorithms? How AI-generated and human-written advice shape (dis)honesty](https://doi.org/10.1093/ej/uead056)", *Economic Journal*, vol. 134, n. 658, pp. 766-784
         - Levy (2021), "[Social media, news consumption, and polarization: Evidence from a field experiment](https://doi.org/10.1257/aer.20191777)", *American Economic Review*, vol. 111, n. 3, pp. 831-870
         - Schwardmann, Tripodi e van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372)",  *American Economic Review*, vol. 112, n. 4, pp. 1118-1146
     + *Attività:*
