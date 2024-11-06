@@ -123,7 +123,6 @@ Il corso prevede 5 quiz in itinere svolti in classe, ciascuno della durata di 20
 | 1     | Kahneman, Knetsch e Thaler (1991), "[Anomalies: The endowment effect, loss aversion, and status quo bias](https://doi.org/10.1257/jep.5.1.193)", *Journal of Economic Perspectives*, vol. 5, n. 1, pp. 193-206 |
 | 2     | Andreoni, Kuhn, List, Samek, Sokal e Sprenger (2019), "[Toward an understanding of the development of time preferences: Evidence from field experiments](https://doi.org/10.1016/j.jpubeco.2019.06.007)", *Journal of Public Economics*, vol. 177, n. 104039 |
 | 3     | Mislavsky e Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68, n. 1, pp. 541-563   |
-| 4     | Gneezy e Rustichini (2000), "[Pay enough or don’t pay at all](https://doi.org/10.1162/003355300554917)", *Quarterly Journal of Economics*, vol. 115, n. 3, pp. 791-810 |
 | 4     |  Meyer e Tripodi (2021), "[Image concerns in pledges to give blood: Evidence from a field experiment](https://doi.org/10.1016/j.joep.2021.102434)", *Journal of Economic Psychology*, vol. 87, n. 102434      |
 | 5     | Blumenstock, Callen e Ghani (2018), "[Why do defaults affect behavior? Experimental evidence from Afghanistan](https://doi.org/10.1257/aer.20171676)", *American Economic Review*, vol. 108, n. 10, pp. 2868-2901 |
 
@@ -228,8 +227,6 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Hermann, Thöni e Gächter (2008), "[Antisocial punishment across societies](https://doi.org/10.1126/science.1153808)", *Science*, vol. 319, n. 5868, pp. 1362-1367
         - Levitt e List (2007), "[What do laboratory experiments measuring social preferences reveal about the real world?](https://doi.org/10.1257/jep.21.2.153)", *Journal of Economic Perspectives*, vol. 21, n. 2, pp. 153-174
     + *Attività:*  
-        - 🔬 Terzo esperimento in classe    
-        - 📝 Consegna del secondo elaborato sperimentale
 * `[Settimane 10 e 11]` Preferenze e confronti sociali  
     + *Letture:*   
         - Cartwright, Capitolo 7 (Sezioni da 7.2.0 a 7.5.3)
@@ -244,7 +241,8 @@ Eventuali modifiche a questo programma sono comunicate durante il corso, così c
         - Goette e Tripodi (2024), "[The limits of social recognition: Experimental evidence from blood donors](https://doi.org/10.1016/j.jpubeco.2024.105069)", *Journal of Public Economics*, vol. 231, n. 105069
     + *Attività:*
         - ❓ Quarto quiz in classe
-        - 🔬 Quarto esperimento in classe
+        - 🔬 Terzo esperimento in classe
+        - 📝 Consegna del secondo elaborato sperimentale
         - 📝 Consegna del *policy brief*
 * `[Settimana 12]` Salienza e *nudge*  
     + *Letture:*  
