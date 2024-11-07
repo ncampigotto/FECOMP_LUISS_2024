@@ -20,7 +20,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 | 4 e 5        | Scelte in condizioni di rischio e incertezza   | Giaccherini, Campigotto | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_1_2425.html)                 |
 | 6            | Scelte intertemporali                         | Giaccherini       |                        |
 | 7 e 8        | Apprendimento, narrazioni, pregiudizi e persuasione       | Campigotto        |                        |
-| 9            | Interazioni strategiche                       | Campigotto        |                        |
+| 9            | Interazioni strategiche                       | Campigotto        | https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_4_2425.html                        |
 | 10 e 11      | Preferenze e confronti sociali                            | Campigotto        |                        |
 | 12           | Salienza e *nudge*                            | Campigotto        |                        |
 
