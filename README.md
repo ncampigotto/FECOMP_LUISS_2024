@@ -21,7 +21,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 | 6            | Scelte intertemporali                         | Giaccherini       |                        |
 | 7 e 8        | Apprendimento, narrazioni, pregiudizi e persuasione       | Campigotto        |                        |
 | 9            | Interazioni strategiche                       | Campigotto        | https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_4_2425.html                        |
-| 10 e 11      | Preferenze e confronti sociali                            | Campigotto        |                        |
+| 10 e 11      | Preferenze e confronti sociali                            | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_5_2425.html)                        |
 | 12           | Salienza e *nudge*                            | Campigotto        |                        |
 
 
