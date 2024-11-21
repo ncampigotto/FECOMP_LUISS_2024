@@ -17,12 +17,12 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 | 1            | Introduzione all'economia comportamentale   | Giaccherini       |                          |
 | 2            | Euristiche e *bias*                         | Giaccherini       |                          |
 | 3            | Introduzione all'analisi dei dati con Stata    | Manneschi, Pagliarulo |                   |
-| 4 e 5        | Scelte in condizioni di rischio e incertezza   | Giaccherini, Campigotto | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_1_2425.html)                 |
+| 4 e 5        | Scelte in condizioni di rischio e incertezza   | Giaccherini, Campigotto | [Download 2](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_1_2425.html)                 |
 | 6            | Scelte intertemporali                         | Giaccherini       |                        |
-| 7 e 8        | Apprendimento, narrazioni, pregiudizi e persuasione       | Campigotto        |                        |
-| 9            | Interazioni strategiche                       | Campigotto        | https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_4_2425.html                        |
-| 10 e 11      | Preferenze e confronti sociali                            | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_5_2425.html)                        |
-| 12           | Salienza e *nudge*                            | Campigotto        |                        |
+| 7 e 8        | Apprendimento, narrazioni, pregiudizi e persuasione       | Campigotto        | [Download 1](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_2_2425.html), [Download 2](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_3_2425.html)                        |
+| 9            | Interazioni strategiche                       | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_4_2425.html)                        |
+| 10 e 11      | Preferenze e confronti sociali                            | Campigotto        | [Download 1](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_5_2425.html), [Download 2](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_6_2425.html), [Download 3](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_7_2425.html)                         |
+| 12           | Salienza e *nudge*                            | Campigotto        | [Download](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_8_2425.html)                        |
 
 
 ### 📉 Dati e tracce per gli elaborati sperimentali
