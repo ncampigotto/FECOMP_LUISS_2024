@@ -29,7 +29,7 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 
 | Elaborato    | **Data di consegna**                                | **Dati**          | **Domande**    |
 |:-------------|:--------------------------------------------|:------------------|:-----------------|
-| 1 | 18 ottobre 2024 | |
-| 2 | 8 novembre 2024 | |
-| 3 | 29 novembre 2024 | |
+| 1 | 18 ottobre 2024 | [Download](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Dati/1st_exp_FECOMP2425.dta) | [Download](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Dati/1st_experiment_assignment_FECOMP2425.pdf) |
+| 2 | 14 novembre 2024 | [Download](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Dati/2nd_exp_FECOMP2425.dta) | [Download](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Dati/2nd_experiment_assignment_FECOMP2425.pdf) |
+| 3 | 30 novembre 2024 | [Download](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Dati/3rd_exp_fecomp2425.dta) | [Download](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Dati/3rd_experiment_assignment_FECOMP2425.pdf) |
 
