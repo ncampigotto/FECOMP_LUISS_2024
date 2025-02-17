@@ -14,8 +14,8 @@ Questa pagina contiene *syllabus*, materiale e dati per il corso di "Fondamenti 
 
 | **Settimana/e**     | **Tema**                                   | **Docente**    | **Materiale**    |
 |:-------------|:--------------------------------------------|:------------------|:-------------------------|
-| 1            | Introduzione all'economia comportamentale   | Campigotto, Giaccherini       | [Download 1](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_0_2425.html), [Download 2](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/Giaccherini_1.pdf)                          |
-| 2            | Euristiche e *bias*                         | Giaccherini       |                          |
+| 1            | Introduzione all'economia comportamentale   | Campigotto, Giaccherini       | [Download 1](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_0_2425.html), [Download 2](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/Giaccherini_1.pdf)                          |
+| 2            | Euristiche e *bias*                         | Giaccherini       | [Download 1](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/Giaccherini_2.pdf), [Download 2](https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/Giaccherini_3.pdf)                          |
 | 3            | Introduzione all'analisi dei dati con Stata    | Manneschi, Pagliarulo |                   |
 | 4 e 5        | Scelte in condizioni di rischio e incertezza   | Giaccherini, Campigotto | [Download 2](https://htmlpreview.github.io/?https://github.com/ncampigotto/FECOMP_LUISS_2024/blob/main/Materiali/FECOMP_1_2425.html)                 |
 | 6            | Scelte intertemporali                         | Giaccherini       |                        |
